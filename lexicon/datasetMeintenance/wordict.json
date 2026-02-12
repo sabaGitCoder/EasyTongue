@@ -1,0 +1,3592 @@
+[
+  {
+    "original":"ああ",
+    "hiragana":"ああ",
+    "meaning":"Ah!, Oh!"
+  },
+  {
+    "original":"会う",
+    "hiragana":"あう",
+    "meaning":"to meet, to see"
+  },
+  {
+    "original":"青",
+    "hiragana":"あお",
+    "meaning":"blue"
+  },
+  {
+    "original":"青い",
+    "hiragana":"あおい",
+    "meaning":"blue"
+  },
+  {
+    "original":"赤",
+    "hiragana":"あか",
+    "meaning":"red"
+  },
+  {
+    "original":"赤い",
+    "hiragana":"あかい",
+    "meaning":"red"
+  },
+  {
+    "original":"明るい",
+    "hiragana":"あかるい",
+    "meaning":"bright (in reference to personality or weather); cheerful"
+  },
+  {
+    "original":"秋",
+    "hiragana":"あき",
+    "meaning":"fall (season)"
+  },
+  {
+    "original":"開く",
+    "hiragana":"あく",
+    "meaning":"to open, to become open"
+  },
+  {
+    "original":"開ける",
+    "hiragana":"あける",
+    "meaning":"to open (v.t.)"
+  },
+  {
+    "original":"上げる",
+    "hiragana":"あげる",
+    "meaning":"to raise, to lift"
+  },
+  {
+    "original":"朝",
+    "hiragana":"あさ",
+    "meaning":"morning"
+  },
+  {
+    "original":"朝御飯",
+    "hiragana":"あさごはん",
+    "meaning":"breakfast"
+  },
+  {
+    "original":"明後日",
+    "hiragana":"あさって",
+    "meaning":"day after tomorrow"
+  },
+  {
+    "original":"足; 脚",
+    "hiragana":"あし",
+    "meaning":"foot; leg"
+  },
+  {
+    "original":"明日",
+    "hiragana":"あした",
+    "meaning":"tomorrow"
+  },
+  {
+    "original":"あそこ",
+    "hiragana":"あそこ",
+    "meaning":"there, over there, that place"
+  },
+  {
+    "original":"遊ぶ",
+    "hiragana":"あそぶ",
+    "meaning":"to play; to spend time pleasantly; to hang out"
+  },
+  {
+    "original":"暖かい",
+    "hiragana":"あたたかい",
+    "meaning":"warm"
+  },
+  {
+    "original":"頭",
+    "hiragana":"あたま",
+    "meaning":"head"
+  },
+  {
+    "original":"新しい",
+    "hiragana":"あたらしい",
+    "meaning":"new"
+  },
+  {
+    "original":"あちら",
+    "hiragana":"あちら",
+    "meaning":"this way (polite)"
+  },
+  {
+    "original":"暑い",
+    "hiragana":"あつい",
+    "meaning":"hot (in reference to weather), warm"
+  },
+  {
+    "original":"熱い",
+    "hiragana":"あつい",
+    "meaning":"hot (objects)"
+  },
+  {
+    "original":"厚い",
+    "hiragana":"あつい",
+    "meaning":"kind, warm(hearted), thick, deep"
+  },
+  {
+    "original":"あっち",
+    "hiragana":"あっち",
+    "meaning":"over there"
+  },
+  {
+    "original":"後",
+    "hiragana":"あと",
+    "meaning":"afterwards (later); in the future; the rest; since then"
+  },
+  {
+    "original":"あなた",
+    "hiragana":"あなた",
+    "meaning":"you"
+  },
+  {
+    "original":"兄",
+    "hiragana":"あに",
+    "meaning":"(my) older brother (humble)"
+  },
+  {
+    "original":"姉",
+    "hiragana":"あね",
+    "meaning":"(my) older sister (humble)"
+  },
+  {
+    "original":"アパート",
+    "hiragana":"アパート",
+    "meaning":"apartment (abbr.)"
+  },
+  {
+    "original":"あの",
+    "hiragana":"あの",
+    "meaning":"that over there; like that, that way; um..."
+  },
+  {
+    "original":"浴びる",
+    "hiragana":"あびる",
+    "meaning":"to bathe, to shower"
+  },
+  {
+    "original":"危ない",
+    "hiragana":"あぶない",
+    "meaning":"dangerous, critical"
+  },
+  {
+    "original":"甘い",
+    "hiragana":"あまい",
+    "meaning":"generous, sweet"
+  },
+  {
+    "original":"余り",
+    "hiragana":"あまり",
+    "meaning":"not very; surplus"
+  },
+  {
+    "original":"雨",
+    "hiragana":"あめ",
+    "meaning":"rain"
+  },
+  {
+    "original":"飴",
+    "hiragana":"あめ",
+    "meaning":"(hard) candy"
+  },
+  {
+    "original":"洗う",
+    "hiragana":"あらう",
+    "meaning":"to wash"
+  },
+  {
+    "original":"在る",
+    "hiragana":"ある",
+    "meaning":"to be, to have"
+  },
+  {
+    "original":"有る",
+    "hiragana":"ある",
+    "meaning":"to be, to have"
+  },
+  {
+    "original":"歩く",
+    "hiragana":"あるく",
+    "meaning":"to walk"
+  },
+  {
+    "original":"あれ",
+    "hiragana":"あれ",
+    "meaning":"that one (over there)"
+  },
+  {
+    "original":"いい; よい",
+    "hiragana":"いい; よい",
+    "meaning":"good"
+  },
+  {
+    "original":"いいえ",
+    "hiragana":"いいえ",
+    "meaning":"no, not at all"
+  },
+  {
+    "original":"言う",
+    "hiragana":"いう",
+    "meaning":"to say"
+  },
+  {
+    "original":"家",
+    "hiragana":"いえ",
+    "meaning":"house, home"
+  },
+  {
+    "original":"いかが",
+    "hiragana":"いかが",
+    "meaning":"how, in what way"
+  },
+  {
+    "original":"行く",
+    "hiragana":"いく; ゆく",
+    "meaning":"to go"
+  },
+  {
+    "original":"いくつ",
+    "hiragana":"いくつ",
+    "meaning":"how many, how old"
+  },
+  {
+    "original":"いくら",
+    "hiragana":"いくら",
+    "meaning":"how much, how many"
+  },
+  {
+    "original":"池",
+    "hiragana":"いけ",
+    "meaning":"pond"
+  },
+  {
+    "original":"医者",
+    "hiragana":"いしゃ",
+    "meaning":"doctor; physician"
+  },
+  {
+    "original":"椅子",
+    "hiragana":"いす",
+    "meaning":"chair"
+  },
+  {
+    "original":"忙しい",
+    "hiragana":"いそがしい",
+    "meaning":"busy (people, days)"
+  },
+  {
+    "original":"痛い",
+    "hiragana":"いたい",
+    "meaning":"hurt; painful; sore"
+  },
+  {
+    "original":"一",
+    "hiragana":"いち",
+    "meaning":"one"
+  },
+  {
+    "original":"一日",
+    "hiragana":"いちにち",
+    "meaning":"one day (duration)"
+  },
+  {
+    "original":"一番",
+    "hiragana":"いちばん",
+    "meaning":"best (most), first, number one"
+  },
+  {
+    "original":"いつ",
+    "hiragana":"いつ",
+    "meaning":"when"
+  },
+  {
+    "original":"五日",
+    "hiragana":"いつか",
+    "meaning":"five days; fifth day of the month"
+  },
+  {
+    "original":"一緒",
+    "hiragana":"いっしょ",
+    "meaning":"together"
+  },
+  {
+    "original":"五つ",
+    "hiragana":"いつつ",
+    "meaning":"five things"
+  },
+  {
+    "original":"いつも",
+    "hiragana":"いつも",
+    "meaning":"always, usually, every time, never (with neg. verb)"
+  },
+  {
+    "original":"犬",
+    "hiragana":"いぬ",
+    "meaning":"dog"
+  },
+  {
+    "original":"今",
+    "hiragana":"いま",
+    "meaning":"now"
+  },
+  {
+    "original":"意味",
+    "hiragana":"いみ",
+    "meaning":"meaning, significance"
+  },
+  {
+    "original":"妹",
+    "hiragana":"いもうと",
+    "meaning":"younger sister (humble)"
+  },
+  {
+    "original":"嫌",
+    "hiragana":"いや",
+    "meaning":"disagreeable, detestable, unpleasant"
+  },
+  {
+    "original":"入口",
+    "hiragana":"いりぐち",
+    "meaning":"entrance"
+  },
+  {
+    "original":"居る",
+    "hiragana":"いる",
+    "meaning":"(humble) to be (animate), to exist"
+  },
+  {
+    "original":"要る",
+    "hiragana":"いる",
+    "meaning":"to need"
+  },
+  {
+    "original":"入れる",
+    "hiragana":"いれる",
+    "meaning":"to put in"
+  },
+  {
+    "original":"色",
+    "hiragana":"いろ",
+    "meaning":"color"
+  },
+  {
+    "original":"色々",
+    "hiragana":"いろいろ",
+    "meaning":"various"
+  },
+  {
+    "original":"上",
+    "hiragana":"うえ",
+    "meaning":"above (up, top, etc.), over, on top of"
+  },
+  {
+    "original":"後ろ",
+    "hiragana":"うしろ",
+    "meaning":"back, behind, rear"
+  },
+  {
+    "original":"薄い",
+    "hiragana":"うすい",
+    "meaning":"thin, weak"
+  },
+  {
+    "original":"歌",
+    "hiragana":"うた",
+    "meaning":"a song"
+  },
+  {
+    "original":"歌う",
+    "hiragana":"うたう",
+    "meaning":"to sing"
+  },
+  {
+    "original":"うち",
+    "hiragana":"うち",
+    "meaning":"home; house; my place"
+  },
+  {
+    "original":"生まれる",
+    "hiragana":"うまれる",
+    "meaning":"to be born"
+  },
+  {
+    "original":"海",
+    "hiragana":"うみ",
+    "meaning":"sea, beach"
+  },
+  {
+    "original":"売る",
+    "hiragana":"うる",
+    "meaning":"to sell (v.t.)"
+  },
+  {
+    "original":"うるさい",
+    "hiragana":"うるさい",
+    "meaning":"noisy; annoying"
+  },
+  {
+    "original":"上着",
+    "hiragana":"うわぎ",
+    "meaning":"coat, jacket"
+  },
+  {
+    "original":"絵",
+    "hiragana":"え",
+    "meaning":"a painting; a picture; a drawing"
+  },
+  {
+    "original":"映画",
+    "hiragana":"えいが",
+    "meaning":"movie, film"
+  },
+  {
+    "original":"映画館",
+    "hiragana":"えいがかん",
+    "meaning":"movie theater, cinema"
+  },
+  {
+    "original":"英語",
+    "hiragana":"えいご",
+    "meaning":"English (language)"
+  },
+  {
+    "original":"ええ",
+    "hiragana":"ええ",
+    "meaning":"yes"
+  },
+  {
+    "original":"駅",
+    "hiragana":"えき",
+    "meaning":"station"
+  },
+  {
+    "original":"エレベーター",
+    "hiragana":"エレベーター",
+    "meaning":"elevator"
+  },
+  {
+    "original":"～円",
+    "hiragana":"～えん",
+    "meaning":"Yen"
+  },
+  {
+    "original":"鉛筆",
+    "hiragana":"えんぴつ",
+    "meaning":"pencil"
+  },
+  {
+    "original":"お～",
+    "hiragana":"お～",
+    "meaning":"honorable ~ (honorific)"
+  },
+  {
+    "original":"美味しい",
+    "hiragana":"おいしい",
+    "meaning":"delicious, tasty"
+  },
+  {
+    "original":"多い",
+    "hiragana":"おおい",
+    "meaning":"many; there are a lot"
+  },
+  {
+    "original":"大きい",
+    "hiragana":"おおきい",
+    "meaning":"big, large"
+  },
+  {
+    "original":"大きな",
+    "hiragana":"おおきな",
+    "meaning":"big"
+  },
+  {
+    "original":"大勢",
+    "hiragana":"おおぜい",
+    "meaning":"great number of people"
+  },
+  {
+    "original":"お母さん",
+    "hiragana":"おかあさん",
+    "meaning":"mother (formal)"
+  },
+  {
+    "original":"お菓子",
+    "hiragana":"おかし",
+    "meaning":"confections, sweets, snack"
+  },
+  {
+    "original":"お金",
+    "hiragana":"おかね",
+    "meaning":"money"
+  },
+  {
+    "original":"起きる",
+    "hiragana":"おきる",
+    "meaning":"to get up (e.g., from sleeping); to happen"
+  },
+  {
+    "original":"置く",
+    "hiragana":"おく",
+    "meaning":"to put; to lay; to place"
+  },
+  {
+    "original":"奥さん",
+    "hiragana":"おくさん",
+    "meaning":"(someone else's) wife (hon.)"
+  },
+  {
+    "original":"お酒",
+    "hiragana":"おさけ",
+    "meaning":"sake; alcohol"
+  },
+  {
+    "original":"お皿",
+    "hiragana":"おさら",
+    "meaning":"plate, dish"
+  },
+  {
+    "original":"伯父; 叔父さん",
+    "hiragana":"おじさん",
+    "meaning":"uncle, middle-aged man"
+  },
+  {
+    "original":"おじいさん",
+    "hiragana":"おじいさん",
+    "meaning":"grandfather, male senior citizen"
+  },
+  {
+    "original":"教える",
+    "hiragana":"おしえる",
+    "meaning":"to teach, to inform, to instruct"
+  },
+  {
+    "original":"押す",
+    "hiragana":"おす",
+    "meaning":"to push, to press, to stamp (e.g., a passport)"
+  },
+  {
+    "original":"遅い",
+    "hiragana":"おそい",
+    "meaning":"slow; (to be) late"
+  },
+  {
+    "original":"お茶",
+    "hiragana":"おちゃ",
+    "meaning":"(green) tea"
+  },
+  {
+    "original":"お手洗い",
+    "hiragana":"おてあらい",
+    "meaning":"toilet, restroom, bathroom (lit., a place to wash one's hands)"
+  },
+  {
+    "original":"お父さん",
+    "hiragana":"おとうさん",
+    "meaning":"father (formal)"
+  },
+  {
+    "original":"弟",
+    "hiragana":"おとうと",
+    "meaning":"younger brother"
+  },
+  {
+    "original":"男",
+    "hiragana":"おとこ",
+    "meaning":"man, male"
+  },
+  {
+    "original":"男の子",
+    "hiragana":"おとこのこ",
+    "meaning":"boy"
+  },
+  {
+    "original":"一昨日",
+    "hiragana":"おととい",
+    "meaning":"the day before yesterday"
+  },
+  {
+    "original":"おととし",
+    "hiragana":"おととし",
+    "meaning":"year before last"
+  },
+  {
+    "original":"大人",
+    "hiragana":"おとな",
+    "meaning":"adult"
+  },
+  {
+    "original":"お腹",
+    "hiragana":"おなか",
+    "meaning":"stomach"
+  },
+  {
+    "original":"同じ",
+    "hiragana":"おなじ",
+    "meaning":"same, identical"
+  },
+  {
+    "original":"お兄さん",
+    "hiragana":"おにいさん",
+    "meaning":"(someone else's) older brother (formal)"
+  },
+  {
+    "original":"お姉さん",
+    "hiragana":"おねえさん",
+    "meaning":"older sister (formal)"
+  },
+  {
+    "original":"伯母さん; 叔母さん",
+    "hiragana":"おばさん",
+    "meaning":"aunt"
+  },
+  {
+    "original":"おばあさん",
+    "hiragana":"おばあさん",
+    "meaning":"grandmother, female senior-citizen"
+  },
+  {
+    "original":"お風呂",
+    "hiragana":"おふろ",
+    "meaning":"a bath"
+  },
+  {
+    "original":"お弁当",
+    "hiragana":"おべんとう",
+    "meaning":"a boxed lunch"
+  },
+  {
+    "original":"覚える",
+    "hiragana":"おぼえる",
+    "meaning":"to learn, to commit to memory, to remember, to memorize"
+  },
+  {
+    "original":"おまわりさん",
+    "hiragana":"おまわりさん",
+    "meaning":"policeman (friendly term)"
+  },
+  {
+    "original":"重い",
+    "hiragana":"おもい",
+    "meaning":"heavy; serious"
+  },
+  {
+    "original":"面白い",
+    "hiragana":"おもしろい",
+    "meaning":"interesting, amusing"
+  },
+  {
+    "original":"泳ぐ",
+    "hiragana":"およぐ",
+    "meaning":"to swim"
+  },
+  {
+    "original":"降りる",
+    "hiragana":"おりる",
+    "meaning":"to get off"
+  },
+  {
+    "original":"終る",
+    "hiragana":"おわる",
+    "meaning":"to finish, to close"
+  },
+  {
+    "original":"音楽",
+    "hiragana":"おんがく",
+    "meaning":"Music"
+  },
+  {
+    "original":"女",
+    "hiragana":"おんな",
+    "meaning":"woman, female"
+  },
+  {
+    "original":"女の子",
+    "hiragana":"おんなのこ",
+    "meaning":"girl"
+  },
+  {
+    "original":"～回",
+    "hiragana":"～かい",
+    "meaning":"counter for occurrences (~ times)"
+  },
+  {
+    "original":"～階",
+    "hiragana":"～かい",
+    "meaning":"counter for stories (floors) of a building"
+  },
+  {
+    "original":"外国",
+    "hiragana":"がいこく",
+    "meaning":"foreign country; abroad"
+  },
+  {
+    "original":"外国人",
+    "hiragana":"がいこくじん",
+    "meaning":"foreigner"
+  },
+  {
+    "original":"会社",
+    "hiragana":"かいしゃ",
+    "meaning":"company, corporation"
+  },
+  {
+    "original":"階段",
+    "hiragana":"かいだん",
+    "meaning":"stairs"
+  },
+  {
+    "original":"買い物",
+    "hiragana":"かいもの",
+    "meaning":"shopping"
+  },
+  {
+    "original":"買う",
+    "hiragana":"かう",
+    "meaning":"to buy"
+  },
+  {
+    "original":"返す",
+    "hiragana":"かえす",
+    "meaning":"to return something"
+  },
+  {
+    "original":"帰る",
+    "hiragana":"かえる",
+    "meaning":"to go back, to go home, to return"
+  },
+  {
+    "original":"顔",
+    "hiragana":"かお",
+    "meaning":"face (body part)"
+  },
+  {
+    "original":"かかる",
+    "hiragana":"かかる",
+    "meaning":"it takes (amount of time, money) (v.i.)"
+  },
+  {
+    "original":"鍵",
+    "hiragana":"かぎ",
+    "meaning":"a lock; a key"
+  },
+  {
+    "original":"書く",
+    "hiragana":"かく",
+    "meaning":"to write"
+  },
+  {
+    "original":"学生",
+    "hiragana":"がくせい",
+    "meaning":"student"
+  },
+  {
+    "original":"～か月",
+    "hiragana":"～かげつ",
+    "meaning":"(number of) months"
+  },
+  {
+    "original":"掛ける",
+    "hiragana":"かける",
+    "meaning":"to put on (e.g., glasses); to hang (e.g., on a wall)"
+  },
+  {
+    "original":"かける",
+    "hiragana":"かける",
+    "meaning":"to dial\/call (e.g., phone); to sit down"
+  },
+  {
+    "original":"傘",
+    "hiragana":"かさ",
+    "meaning":"umbrella, parasol"
+  },
+  {
+    "original":"貸す",
+    "hiragana":"かす",
+    "meaning":"to lend"
+  },
+  {
+    "original":"風",
+    "hiragana":"かぜ",
+    "meaning":"wind, breeze"
+  },
+  {
+    "original":"風邪",
+    "hiragana":"かぜ",
+    "meaning":"cold, flu"
+  },
+  {
+    "original":"方",
+    "hiragana":"かた",
+    "meaning":"-- honorific form for 人 (ひと) --; way of doing"
+  },
+  {
+    "original":"家族",
+    "hiragana":"かぞく",
+    "meaning":"family, members of a family"
+  },
+  {
+    "original":"片仮名",
+    "hiragana":"かたかな",
+    "meaning":"katakana"
+  },
+  {
+    "original":"～月",
+    "hiragana":"～がつ",
+    "meaning":"month of year"
+  },
+  {
+    "original":"学校",
+    "hiragana":"がっこう",
+    "meaning":"a school"
+  },
+  {
+    "original":"カップ",
+    "hiragana":"カップ",
+    "meaning":"cup"
+  },
+  {
+    "original":"家庭",
+    "hiragana":"かてい",
+    "meaning":"home; family"
+  },
+  {
+    "original":"角",
+    "hiragana":"かど",
+    "meaning":"corner (e.g., desk, pavement)"
+  },
+  {
+    "original":"かばん",
+    "hiragana":"かばん",
+    "meaning":"bag, basket"
+  },
+  {
+    "original":"花瓶",
+    "hiragana":"かびん",
+    "meaning":"(flower) vase"
+  },
+  {
+    "original":"かぶる",
+    "hiragana":"かぶる",
+    "meaning":"to wear, to put on (e.g., a hat on the head)"
+  },
+  {
+    "original":"紙",
+    "hiragana":"かみ",
+    "meaning":"paper"
+  },
+  {
+    "original":"カメラ",
+    "hiragana":"カメラ",
+    "meaning":"camera"
+  },
+  {
+    "original":"火曜日",
+    "hiragana":"かようび",
+    "meaning":"Tuesday"
+  },
+  {
+    "original":"辛い",
+    "hiragana":"からい",
+    "meaning":"hot and spicy; salty"
+  },
+  {
+    "original":"体",
+    "hiragana":"からだ",
+    "meaning":"body; health"
+  },
+  {
+    "original":"借りる",
+    "hiragana":"かりる",
+    "meaning":"to borrow, to owe"
+  },
+  {
+    "original":"～がる",
+    "hiragana":"～がる",
+    "meaning":"feel"
+  },
+  {
+    "original":"軽い",
+    "hiragana":"かるい",
+    "meaning":"light, non-serious, minor"
+  },
+  {
+    "original":"カレー",
+    "hiragana":"カレー",
+    "meaning":"curry (abbr. for curry and rice)"
+  },
+  {
+    "original":"カレンダー",
+    "hiragana":"カレンダー",
+    "meaning":"calendar"
+  },
+  {
+    "original":"川; 河",
+    "hiragana":"かわ",
+    "meaning":"river"
+  },
+  {
+    "original":"～側",
+    "hiragana":"～がわ",
+    "meaning":"~ side"
+  },
+  {
+    "original":"可愛い",
+    "hiragana":"かわいい",
+    "meaning":"cute, adorable"
+  },
+  {
+    "original":"漢字",
+    "hiragana":"かんじ",
+    "meaning":"kanji; Chinese character"
+  },
+  {
+    "original":"木",
+    "hiragana":"き",
+    "meaning":"tree, wood, timber"
+  },
+  {
+    "original":"黄色",
+    "hiragana":"きいろ",
+    "meaning":"yellow"
+  },
+  {
+    "original":"黄色い",
+    "hiragana":"きいろい",
+    "meaning":"yellow"
+  },
+  {
+    "original":"消える",
+    "hiragana":"きえる",
+    "meaning":"to vanish, to disappear"
+  },
+  {
+    "original":"聞く",
+    "hiragana":"きく",
+    "meaning":"to hear, to listen, to ask"
+  },
+  {
+    "original":"北",
+    "hiragana":"きた",
+    "meaning":"north"
+  },
+  {
+    "original":"ギター",
+    "hiragana":"ギター",
+    "meaning":"guitar"
+  },
+  {
+    "original":"汚い",
+    "hiragana":"きたない",
+    "meaning":"dirty, unclean, filthy"
+  },
+  {
+    "original":"喫茶店",
+    "hiragana":"きっさてん",
+    "meaning":"café"
+  },
+  {
+    "original":"切手",
+    "hiragana":"きって",
+    "meaning":"postal (postage) stamps"
+  },
+  {
+    "original":"切符",
+    "hiragana":"きっぷ",
+    "meaning":"a ticket"
+  },
+  {
+    "original":"昨日",
+    "hiragana":"きのう",
+    "meaning":"yesterday"
+  },
+  {
+    "original":"九",
+    "hiragana":"きゅう",
+    "meaning":"nine"
+  },
+  {
+    "original":"牛肉",
+    "hiragana":"ぎゅうにく",
+    "meaning":"beef"
+  },
+  {
+    "original":"牛乳",
+    "hiragana":"ぎゅうにゅう",
+    "meaning":"milk"
+  },
+  {
+    "original":"今日",
+    "hiragana":"きょう",
+    "meaning":"today, this day"
+  },
+  {
+    "original":"教室",
+    "hiragana":"きょうしつ",
+    "meaning":"classroom"
+  },
+  {
+    "original":"兄弟",
+    "hiragana":"きょうだい",
+    "meaning":"siblings (humble), brothers and sisters"
+  },
+  {
+    "original":"去年",
+    "hiragana":"きょねん",
+    "meaning":"last year"
+  },
+  {
+    "original":"嫌い",
+    "hiragana":"きらい",
+    "meaning":"dislike"
+  },
+  {
+    "original":"切る",
+    "hiragana":"きる",
+    "meaning":"to cut; to hang up (a phone)"
+  },
+  {
+    "original":"着る",
+    "hiragana":"きる",
+    "meaning":"to put on (clothes above your waist); to wear"
+  },
+  {
+    "original":"綺麗",
+    "hiragana":"きれい",
+    "meaning":"pretty, clean, tidy"
+  },
+  {
+    "original":"キロ; キログラム",
+    "hiragana":"キロ; キログラム",
+    "meaning":"(abbr.) kilo (kilogram)"
+  },
+  {
+    "original":"キロ; キロメートル",
+    "hiragana":"キロ; キロメートル",
+    "meaning":"(abbr.) kilo (kilometer)"
+  },
+  {
+    "original":"銀行",
+    "hiragana":"ぎんこう",
+    "meaning":"bank"
+  },
+  {
+    "original":"金曜日",
+    "hiragana":"きんようび",
+    "meaning":"Friday"
+  },
+  {
+    "original":"九",
+    "hiragana":"く",
+    "meaning":"nine"
+  },
+  {
+    "original":"薬",
+    "hiragana":"くすり",
+    "meaning":"medicine"
+  },
+  {
+    "original":"下さい",
+    "hiragana":"ください",
+    "meaning":"(with te-form verb) please do for me"
+  },
+  {
+    "original":"果物",
+    "hiragana":"くだもの",
+    "meaning":"fruit"
+  },
+  {
+    "original":"口",
+    "hiragana":"くち",
+    "meaning":"job opening; mouth"
+  },
+  {
+    "original":"靴",
+    "hiragana":"くつ",
+    "meaning":"shoes, footwear"
+  },
+  {
+    "original":"靴下",
+    "hiragana":"くつした",
+    "meaning":"socks"
+  },
+  {
+    "original":"国",
+    "hiragana":"くに",
+    "meaning":"country; place of origin"
+  },
+  {
+    "original":"曇り",
+    "hiragana":"くもり",
+    "meaning":"cloudiness, cloudy weather"
+  },
+  {
+    "original":"曇る",
+    "hiragana":"くもる",
+    "meaning":"to become cloudy, to become dim"
+  },
+  {
+    "original":"暗い",
+    "hiragana":"くらい",
+    "meaning":"dark, gloomy"
+  },
+  {
+    "original":"～くらい; ぐらい",
+    "hiragana":"～くらい; ぐらい",
+    "meaning":"approximate (quantity)"
+  },
+  {
+    "original":"クラス",
+    "hiragana":"クラス",
+    "meaning":"a class"
+  },
+  {
+    "original":"グラム",
+    "hiragana":"グラム",
+    "meaning":"gram"
+  },
+  {
+    "original":"来る",
+    "hiragana":"くる",
+    "meaning":"to come"
+  },
+  {
+    "original":"車",
+    "hiragana":"くるま",
+    "meaning":"car, vehicle"
+  },
+  {
+    "original":"黒",
+    "hiragana":"くろ",
+    "meaning":"black"
+  },
+  {
+    "original":"黒い",
+    "hiragana":"くろい",
+    "meaning":"black; dark"
+  },
+  {
+    "original":"警官",
+    "hiragana":"けいかん",
+    "meaning":"police officer"
+  },
+  {
+    "original":"今朝",
+    "hiragana":"けさ",
+    "meaning":"this morning"
+  },
+  {
+    "original":"消す",
+    "hiragana":"けす",
+    "meaning":"to erase, to delete, to turn off power"
+  },
+  {
+    "original":"結構",
+    "hiragana":"けっこう",
+    "meaning":"splendid; enough, tolerably"
+  },
+  {
+    "original":"結婚",
+    "hiragana":"けっこん (する)",
+    "meaning":"marriage (get married)"
+  },
+  {
+    "original":"月曜日",
+    "hiragana":"げつようび",
+    "meaning":"Monday"
+  },
+  {
+    "original":"玄関",
+    "hiragana":"げんかん",
+    "meaning":"entrance (to a house or a building)"
+  },
+  {
+    "original":"元気",
+    "hiragana":"げんき",
+    "meaning":"health(y), energetic"
+  },
+  {
+    "original":"～個",
+    "hiragana":"～こ",
+    "meaning":"counter for small items (e.g., fruits, cups)"
+  },
+  {
+    "original":"五",
+    "hiragana":"ご",
+    "meaning":"five"
+  },
+  {
+    "original":"～語",
+    "hiragana":"～ご",
+    "meaning":"word, language"
+  },
+  {
+    "original":"公園",
+    "hiragana":"こうえん",
+    "meaning":"a park"
+  },
+  {
+    "original":"交差点",
+    "hiragana":"こうさてん",
+    "meaning":"intersection"
+  },
+  {
+    "original":"紅茶",
+    "hiragana":"こうちゃ",
+    "meaning":"black tea"
+  },
+  {
+    "original":"交番",
+    "hiragana":"こうばん",
+    "meaning":"police box"
+  },
+  {
+    "original":"声",
+    "hiragana":"こえ",
+    "meaning":"voice"
+  },
+  {
+    "original":"コート",
+    "hiragana":"コート",
+    "meaning":"coat; court (e.g., tennis)"
+  },
+  {
+    "original":"コーヒー",
+    "hiragana":"コーヒー",
+    "meaning":"coffee"
+  },
+  {
+    "original":"ここ",
+    "hiragana":"ここ",
+    "meaning":"here, this place"
+  },
+  {
+    "original":"午後",
+    "hiragana":"ごご",
+    "meaning":"afternoon, P.M."
+  },
+  {
+    "original":"九日",
+    "hiragana":"ここのか",
+    "meaning":"nine days; ninth day of the month"
+  },
+  {
+    "original":"九つ",
+    "hiragana":"ここのつ",
+    "meaning":"nine things"
+  },
+  {
+    "original":"午前",
+    "hiragana":"ごぜん",
+    "meaning":"morning, A.M."
+  },
+  {
+    "original":"答える",
+    "hiragana":"こたえる",
+    "meaning":"to answer, to reply"
+  },
+  {
+    "original":"こちら",
+    "hiragana":"こちら",
+    "meaning":"this person (polite); this way (polite)"
+  },
+  {
+    "original":"こっち",
+    "hiragana":"こっち",
+    "meaning":"this person; this direction; this side"
+  },
+  {
+    "original":"コップ",
+    "hiragana":"コップ",
+    "meaning":"a tumbler; a glass"
+  },
+  {
+    "original":"今年",
+    "hiragana":"ことし",
+    "meaning":"this year"
+  },
+  {
+    "original":"言葉",
+    "hiragana":"ことば",
+    "meaning":"language; word(s); expression(s)"
+  },
+  {
+    "original":"子供",
+    "hiragana":"こども",
+    "meaning":"child(ren)"
+  },
+  {
+    "original":"この",
+    "hiragana":"この",
+    "meaning":"this"
+  },
+  {
+    "original":"御飯",
+    "hiragana":"ごはん",
+    "meaning":"rice (cooked); meal"
+  },
+  {
+    "original":"コピーする",
+    "hiragana":"コピーする",
+    "meaning":"to copy"
+  },
+  {
+    "original":"困る",
+    "hiragana":"こまる",
+    "meaning":"to be bothered, to have difficulty"
+  },
+  {
+    "original":"これ",
+    "hiragana":"これ",
+    "meaning":"this one"
+  },
+  {
+    "original":"～ころ; ～ごろ",
+    "hiragana":"～ころ; ～ごろ",
+    "meaning":"about, toward, approximately (time)"
+  },
+  {
+    "original":"今月",
+    "hiragana":"こんげつ",
+    "meaning":"this month"
+  },
+  {
+    "original":"今週",
+    "hiragana":"こんしゅう",
+    "meaning":"this week"
+  },
+  {
+    "original":"こんな",
+    "hiragana":"こんな",
+    "meaning":"such, like this"
+  },
+  {
+    "original":"今晩",
+    "hiragana":"こんばん",
+    "meaning":"tonight, this evening"
+  },
+  {
+    "original":"さあ",
+    "hiragana":"さあ",
+    "meaning":"come now, well"
+  },
+  {
+    "original":"～歳",
+    "hiragana":"～さい",
+    "meaning":"~ years old"
+  },
+  {
+    "original":"財布",
+    "hiragana":"さいふ",
+    "meaning":"wallet"
+  },
+  {
+    "original":"魚",
+    "hiragana":"さかな",
+    "meaning":"fish"
+  },
+  {
+    "original":"先",
+    "hiragana":"さき",
+    "meaning":"future; recent, previous"
+  },
+  {
+    "original":"咲く",
+    "hiragana":"さく",
+    "meaning":"to bloom"
+  },
+  {
+    "original":"作文",
+    "hiragana":"さくぶん",
+    "meaning":"essay; composition"
+  },
+  {
+    "original":"差す",
+    "hiragana":"さす",
+    "meaning":"to raise (stretch out) hands, to raise (e.g., umbrella)"
+  },
+  {
+    "original":"～冊",
+    "hiragana":"～さつ",
+    "meaning":"counter for books"
+  },
+  {
+    "original":"雑誌",
+    "hiragana":"ざっし",
+    "meaning":"magazine, journal"
+  },
+  {
+    "original":"砂糖",
+    "hiragana":"さとう",
+    "meaning":"sugar"
+  },
+  {
+    "original":"寒い",
+    "hiragana":"さむい",
+    "meaning":"cold (in reference to weather)"
+  },
+  {
+    "original":"さ来年",
+    "hiragana":"さらいねん",
+    "meaning":"year after next"
+  },
+  {
+    "original":"～さん",
+    "hiragana":"～さん",
+    "meaning":"Mr. ~, Ms. ~"
+  },
+  {
+    "original":"三",
+    "hiragana":"さん",
+    "meaning":"three"
+  },
+  {
+    "original":"散歩",
+    "hiragana":"さんぽ (する)",
+    "meaning":"walk, stroll"
+  },
+  {
+    "original":"四",
+    "hiragana":"し",
+    "meaning":"four"
+  },
+  {
+    "original":"～時",
+    "hiragana":"～じ",
+    "meaning":"~ o'clock (time)"
+  },
+  {
+    "original":"塩",
+    "hiragana":"しお",
+    "meaning":"salt"
+  },
+  {
+    "original":"しかし",
+    "hiragana":"しかし",
+    "meaning":"however; but"
+  },
+  {
+    "original":"時間",
+    "hiragana":"じかん",
+    "meaning":"time"
+  },
+  {
+    "original":"～時間",
+    "hiragana":"～じかん",
+    "meaning":"~ hours"
+  },
+  {
+    "original":"仕事",
+    "hiragana":"しごと",
+    "meaning":"work, job, occupation, employment"
+  },
+  {
+    "original":"辞書",
+    "hiragana":"じしょ",
+    "meaning":"dictionary"
+  },
+  {
+    "original":"静か",
+    "hiragana":"しずか",
+    "meaning":"quiet, calm"
+  },
+  {
+    "original":"下",
+    "hiragana":"した",
+    "meaning":"under, below, beneath"
+  },
+  {
+    "original":"七",
+    "hiragana":"しち",
+    "meaning":"seven"
+  },
+  {
+    "original":"質問",
+    "hiragana":"しつもん",
+    "meaning":"question, inquiry"
+  },
+  {
+    "original":"自転車",
+    "hiragana":"じてんしゃ",
+    "meaning":"bicycle"
+  },
+  {
+    "original":"自動車",
+    "hiragana":"じどうしゃ",
+    "meaning":"automobile"
+  },
+  {
+    "original":"死ぬ",
+    "hiragana":"しぬ",
+    "meaning":"to die"
+  },
+  {
+    "original":"字引",
+    "hiragana":"じびき",
+    "meaning":"dictionary"
+  },
+  {
+    "original":"自分",
+    "hiragana":"じぶん",
+    "meaning":"myself, oneself"
+  },
+  {
+    "original":"閉まる",
+    "hiragana":"しまる",
+    "meaning":"to close, to be closed"
+  },
+  {
+    "original":"閉める",
+    "hiragana":"しめる",
+    "meaning":"to close, to shut"
+  },
+  {
+    "original":"締める",
+    "hiragana":"しめる",
+    "meaning":"to tie, to fasten, to tighten"
+  },
+  {
+    "original":"じゃ; じゃあ",
+    "hiragana":"じゃ; じゃあ",
+    "meaning":"well, well then"
+  },
+  {
+    "original":"写真",
+    "hiragana":"しゃしん",
+    "meaning":"a picture; a photograph"
+  },
+  {
+    "original":"シャツ",
+    "hiragana":"シャツ",
+    "meaning":"shirt"
+  },
+  {
+    "original":"シャワー",
+    "hiragana":"シャワー",
+    "meaning":"shower"
+  },
+  {
+    "original":"十",
+    "hiragana":"じゅう",
+    "meaning":"ten"
+  },
+  {
+    "original":"～中",
+    "hiragana":"～じゅう",
+    "meaning":"during, while"
+  },
+  {
+    "original":"～週間",
+    "hiragana":"～しゅうかん",
+    "meaning":"~ weeks"
+  },
+  {
+    "original":"授業",
+    "hiragana":"じゅぎょう",
+    "meaning":"a class (of school)"
+  },
+  {
+    "original":"宿題",
+    "hiragana":"しゅくだい",
+    "meaning":"homework"
+  },
+  {
+    "original":"上手",
+    "hiragana":"じょうず",
+    "meaning":"be good at, skillful"
+  },
+  {
+    "original":"丈夫",
+    "hiragana":"じょうぶ",
+    "meaning":"strong, solid, durable"
+  },
+  {
+    "original":"醤油",
+    "hiragana":"しょうゆ",
+    "meaning":"soy sauce"
+  },
+  {
+    "original":"食堂",
+    "hiragana":"しょくどう",
+    "meaning":"cafeteria, dining hall"
+  },
+  {
+    "original":"知る",
+    "hiragana":"しる",
+    "meaning":"to know, to understand"
+  },
+  {
+    "original":"白",
+    "hiragana":"しろ",
+    "meaning":"white"
+  },
+  {
+    "original":"白い",
+    "hiragana":"しろい",
+    "meaning":"white"
+  },
+  {
+    "original":"～人",
+    "hiragana":"～じん",
+    "meaning":"counter for people"
+  },
+  {
+    "original":"新聞",
+    "hiragana":"しんぶん",
+    "meaning":"newspaper"
+  },
+  {
+    "original":"水曜日",
+    "hiragana":"すいようび",
+    "meaning":"Wednesday"
+  },
+  {
+    "original":"吸う",
+    "hiragana":"すう",
+    "meaning":"to breathe in, to suck"
+  },
+  {
+    "original":"スカート",
+    "hiragana":"スカート",
+    "meaning":"skirt"
+  },
+  {
+    "original":"好き",
+    "hiragana":"すき",
+    "meaning":"liking, fondness, love"
+  },
+  {
+    "original":"～すぎ",
+    "hiragana":"～すぎ",
+    "meaning":"past; to exceed, ~ too much"
+  },
+  {
+    "original":"少ない",
+    "hiragana":"すくない",
+    "meaning":"a little; a few"
+  },
+  {
+    "original":"すぐに",
+    "hiragana":"すぐに",
+    "meaning":"immediately, soon"
+  },
+  {
+    "original":"少し",
+    "hiragana":"すこし",
+    "meaning":"little, few"
+  },
+  {
+    "original":"涼しい",
+    "hiragana":"すずしい",
+    "meaning":"cool, refreshing (in reference to weather)"
+  },
+  {
+    "original":"～ずつ",
+    "hiragana":"～ずつ",
+    "meaning":"at a time"
+  },
+  {
+    "original":"ストーブ",
+    "hiragana":"ストーブ",
+    "meaning":"heater (lit: stove)"
+  },
+  {
+    "original":"スプーン",
+    "hiragana":"スプーン",
+    "meaning":"spoon"
+  },
+  {
+    "original":"スポーツ",
+    "hiragana":"スポーツ",
+    "meaning":"sport(s)"
+  },
+  {
+    "original":"ズボン",
+    "hiragana":"ズボン",
+    "meaning":"trousers"
+  },
+  {
+    "original":"住む",
+    "hiragana":"すむ",
+    "meaning":"to reside, to live in"
+  },
+  {
+    "original":"する",
+    "hiragana":"する",
+    "meaning":"to do, to try; to wear small items (e.g., necktie, watch, etc.)"
+  },
+  {
+    "original":"座る",
+    "hiragana":"すわる",
+    "meaning":"to sit"
+  },
+  {
+    "original":"背",
+    "hiragana":"せい",
+    "meaning":"(one's) height, stature"
+  },
+  {
+    "original":"生徒",
+    "hiragana":"せいと",
+    "meaning":"student; pupil"
+  },
+  {
+    "original":"セーター",
+    "hiragana":"セーター",
+    "meaning":"sweater"
+  },
+  {
+    "original":"石鹸",
+    "hiragana":"せっけん",
+    "meaning":"soap"
+  },
+  {
+    "original":"背広",
+    "hiragana":"せびろ",
+    "meaning":"men's suit"
+  },
+  {
+    "original":"狭い",
+    "hiragana":"せまい",
+    "meaning":"narrow; not spacious"
+  },
+  {
+    "original":"ゼロ",
+    "hiragana":"ゼロ",
+    "meaning":"zero"
+  },
+  {
+    "original":"千",
+    "hiragana":"せん",
+    "meaning":"thousand"
+  },
+  {
+    "original":"先月",
+    "hiragana":"せんげつ",
+    "meaning":"last month"
+  },
+  {
+    "original":"先週",
+    "hiragana":"せんしゅう",
+    "meaning":"last week"
+  },
+  {
+    "original":"先生",
+    "hiragana":"せんせい",
+    "meaning":"teacher, professor; master; doctor"
+  },
+  {
+    "original":"洗濯",
+    "hiragana":"せんたく",
+    "meaning":"washing, laundry"
+  },
+  {
+    "original":"全部",
+    "hiragana":"ぜんぶ",
+    "meaning":"all, entire, whole"
+  },
+  {
+    "original":"そう; そうです",
+    "hiragana":"そう; そうです",
+    "meaning":"yes; appears, to be the case"
+  },
+  {
+    "original":"掃除",
+    "hiragana":"そうじ (する)",
+    "meaning":"cleaning, sweeping"
+  },
+  {
+    "original":"そうして; そして",
+    "hiragana":"そうして; そして",
+    "meaning":"and, like that"
+  },
+  {
+    "original":"そこ",
+    "hiragana":"そこ",
+    "meaning":"that place, there; bottom, sole"
+  },
+  {
+    "original":"そちら",
+    "hiragana":"そちら",
+    "meaning":"over there"
+  },
+  {
+    "original":"そっち",
+    "hiragana":"そっち",
+    "meaning":"over there"
+  },
+  {
+    "original":"外",
+    "hiragana":"そと",
+    "meaning":"outside, exterior"
+  },
+  {
+    "original":"その",
+    "hiragana":"その",
+    "meaning":"that"
+  },
+  {
+    "original":"そば",
+    "hiragana":"そば",
+    "meaning":"near, close, beside; Japanese traditional buckwheat noodle"
+  },
+  {
+    "original":"空",
+    "hiragana":"そら",
+    "meaning":"sky"
+  },
+  {
+    "original":"それ",
+    "hiragana":"それ",
+    "meaning":"that one"
+  },
+  {
+    "original":"それから",
+    "hiragana":"それから",
+    "meaning":"and then, after that"
+  },
+  {
+    "original":"それでは",
+    "hiragana":"それでは",
+    "meaning":"in that situation, well then..."
+  },
+  {
+    "original":"～台",
+    "hiragana":"～だい",
+    "meaning":"counter for vehicles; machines"
+  },
+  {
+    "original":"大学",
+    "hiragana":"だいがく",
+    "meaning":"college; university"
+  },
+  {
+    "original":"大使館",
+    "hiragana":"たいしかん",
+    "meaning":"embassy"
+  },
+  {
+    "original":"大丈夫",
+    "hiragana":"だいじょうぶ",
+    "meaning":"It's ok (all right); No need to worry; Everything is under control"
+  },
+  {
+    "original":"大好き",
+    "hiragana":"だいすき",
+    "meaning":"very like-able, like very much"
+  },
+  {
+    "original":"大切",
+    "hiragana":"たいせつ",
+    "meaning":"important"
+  },
+  {
+    "original":"台所",
+    "hiragana":"だいどころ",
+    "meaning":"kitchen"
+  },
+  {
+    "original":"大変",
+    "hiragana":"たいへん",
+    "meaning":"very; difficult, hard"
+  },
+  {
+    "original":"高い",
+    "hiragana":"たかい",
+    "meaning":"tall, high; expensive"
+  },
+  {
+    "original":"～だけ",
+    "hiragana":"～だけ",
+    "meaning":"only ~, just ~, as ~"
+  },
+  {
+    "original":"沢山",
+    "hiragana":"たくさん",
+    "meaning":"many, much"
+  },
+  {
+    "original":"タクシー",
+    "hiragana":"タクシー",
+    "meaning":"taxi"
+  },
+  {
+    "original":"出す",
+    "hiragana":"だす",
+    "meaning":"to take (something) out; to hand in (something)"
+  },
+  {
+    "original":"～たち",
+    "hiragana":"～たち",
+    "meaning":"plural suffix"
+  },
+  {
+    "original":"立つ",
+    "hiragana":"たつ",
+    "meaning":"to stand up"
+  },
+  {
+    "original":"たて",
+    "hiragana":"たて",
+    "meaning":"length, height"
+  },
+  {
+    "original":"建物",
+    "hiragana":"たてもの",
+    "meaning":"building"
+  },
+  {
+    "original":"楽しい",
+    "hiragana":"たのしい",
+    "meaning":"enjoyable, fun"
+  },
+  {
+    "original":"頼む",
+    "hiragana":"たのむ",
+    "meaning":"to request, to ask (a favor)"
+  },
+  {
+    "original":"たばこ",
+    "hiragana":"たばこ",
+    "meaning":"tobacco, cigarettes"
+  },
+  {
+    "original":"多分",
+    "hiragana":"たぶん",
+    "meaning":"perhaps, probably, maybe"
+  },
+  {
+    "original":"食べ物",
+    "hiragana":"たべもの",
+    "meaning":"food"
+  },
+  {
+    "original":"食べる",
+    "hiragana":"たべる",
+    "meaning":"to eat"
+  },
+  {
+    "original":"卵",
+    "hiragana":"たまご",
+    "meaning":"egg"
+  },
+  {
+    "original":"誰",
+    "hiragana":"だれ",
+    "meaning":"who"
+  },
+  {
+    "original":"誰か",
+    "hiragana":"だれか",
+    "meaning":"someone"
+  },
+  {
+    "original":"誕生日",
+    "hiragana":"たんじょうび",
+    "meaning":"birthday"
+  },
+  {
+    "original":"段々",
+    "hiragana":"だんだん",
+    "meaning":"gradually, by degrees"
+  },
+  {
+    "original":"小さい",
+    "hiragana":"ちいさい",
+    "meaning":"small, little"
+  },
+  {
+    "original":"小さな",
+    "hiragana":"ちいさな",
+    "meaning":"small, little"
+  },
+  {
+    "original":"近い",
+    "hiragana":"ちかい",
+    "meaning":"near, close by, short"
+  },
+  {
+    "original":"違う",
+    "hiragana":"ちがう",
+    "meaning":"to be different; to differ; wrong"
+  },
+  {
+    "original":"近く",
+    "hiragana":"ちかく",
+    "meaning":"nearby; in the neighborhood"
+  },
+  {
+    "original":"地下鉄",
+    "hiragana":"ちかてつ",
+    "meaning":"underground train, subway"
+  },
+  {
+    "original":"地図",
+    "hiragana":"ちず",
+    "meaning":"a map"
+  },
+  {
+    "original":"父",
+    "hiragana":"ちち",
+    "meaning":"(my) father"
+  },
+  {
+    "original":"茶色",
+    "hiragana":"ちゃいろ",
+    "meaning":"brown"
+  },
+  {
+    "original":"茶碗",
+    "hiragana":"ちゃわん",
+    "meaning":"rice bowl"
+  },
+  {
+    "original":"～中",
+    "hiragana":"～ちゅう",
+    "meaning":"during, while ~ing"
+  },
+  {
+    "original":"丁度",
+    "hiragana":"ちょうど",
+    "meaning":"just, right, exactly"
+  },
+  {
+    "original":"ちょっと",
+    "hiragana":"ちょっと",
+    "meaning":"a little, somewhat; just a little, somewhat"
+  },
+  {
+    "original":"一日",
+    "hiragana":"ついたち",
+    "meaning":"one day; first day of the month"
+  },
+  {
+    "original":"使う",
+    "hiragana":"つかう",
+    "meaning":"to use"
+  },
+  {
+    "original":"疲れる",
+    "hiragana":"つかれる",
+    "meaning":"to get (become) tired; to become fatigued"
+  },
+  {
+    "original":"次",
+    "hiragana":"つぎ",
+    "meaning":"next"
+  },
+  {
+    "original":"着く",
+    "hiragana":"つく",
+    "meaning":"to arrive at, to reach"
+  },
+  {
+    "original":"机",
+    "hiragana":"つくえ",
+    "meaning":"desk"
+  },
+  {
+    "original":"作る",
+    "hiragana":"つくる",
+    "meaning":"to make, to create"
+  },
+  {
+    "original":"つける",
+    "hiragana":"つける",
+    "meaning":"to turn on (e.g., a light); to take"
+  },
+  {
+    "original":"勤める",
+    "hiragana":"つとめる",
+    "meaning":"to work (for)"
+  },
+  {
+    "original":"つまらない",
+    "hiragana":"つまらない",
+    "meaning":"boring, dull; insignificant"
+  },
+  {
+    "original":"冷たい",
+    "hiragana":"つめたい",
+    "meaning":"cold (things, people)"
+  },
+  {
+    "original":"強い",
+    "hiragana":"つよい",
+    "meaning":"strong, powerful"
+  },
+  {
+    "original":"手",
+    "hiragana":"て",
+    "meaning":"hand"
+  },
+  {
+    "original":"テープ",
+    "hiragana":"テープ",
+    "meaning":"tape"
+  },
+  {
+    "original":"テープレコーダー",
+    "hiragana":"テープレコーダー",
+    "meaning":"tape recorder"
+  },
+  {
+    "original":"テーブル",
+    "hiragana":"テーブル",
+    "meaning":"table"
+  },
+  {
+    "original":"出かける",
+    "hiragana":"でかける",
+    "meaning":"to go out; to depart"
+  },
+  {
+    "original":"手紙",
+    "hiragana":"てがみ",
+    "meaning":"letter"
+  },
+  {
+    "original":"できる",
+    "hiragana":"できる",
+    "meaning":"to be able to (to accomplish)"
+  },
+  {
+    "original":"出口",
+    "hiragana":"でぐち",
+    "meaning":"an exit"
+  },
+  {
+    "original":"テスト",
+    "hiragana":"テスト",
+    "meaning":"test"
+  },
+  {
+    "original":"では",
+    "hiragana":"では",
+    "meaning":"then, well, so"
+  },
+  {
+    "original":"デパート",
+    "hiragana":"デパート",
+    "meaning":"(abbr.) department store"
+  },
+  {
+    "original":"でも",
+    "hiragana":"でも",
+    "meaning":"but, however"
+  },
+  {
+    "original":"出る",
+    "hiragana":"でる",
+    "meaning":"to appear, to leave"
+  },
+  {
+    "original":"テレビ",
+    "hiragana":"テレビ",
+    "meaning":"television, TV"
+  },
+  {
+    "original":"天気",
+    "hiragana":"てんき",
+    "meaning":"weather"
+  },
+  {
+    "original":"電気",
+    "hiragana":"でんき",
+    "meaning":"electricity, (electric) light"
+  },
+  {
+    "original":"電車",
+    "hiragana":"でんしゃ",
+    "meaning":"electric train"
+  },
+  {
+    "original":"電話",
+    "hiragana":"でんわ",
+    "meaning":"a telephone"
+  },
+  {
+    "original":"戸",
+    "hiragana":"と",
+    "meaning":"door (Japanese style)"
+  },
+  {
+    "original":"～度",
+    "hiragana":"～ど",
+    "meaning":"counter for occurrences; ~ degree; ~ point"
+  },
+  {
+    "original":"ドア",
+    "hiragana":"ドア",
+    "meaning":"door (Western style)"
+  },
+  {
+    "original":"トイレ",
+    "hiragana":"トイレ",
+    "meaning":"bathroom; toilet"
+  },
+  {
+    "original":"どう",
+    "hiragana":"どう",
+    "meaning":"how, in what way"
+  },
+  {
+    "original":"どうして",
+    "hiragana":"どうして",
+    "meaning":"why, for what reason"
+  },
+  {
+    "original":"どうぞ",
+    "hiragana":"どうぞ",
+    "meaning":"please, kindly, by all means"
+  },
+  {
+    "original":"動物",
+    "hiragana":"どうぶつ",
+    "meaning":"animal"
+  },
+  {
+    "original":"どうも",
+    "hiragana":"どうも",
+    "meaning":"Thank you; somehow; no matter how hard one may try"
+  },
+  {
+    "original":"十",
+    "hiragana":"(〜を) とお",
+    "meaning":"ten (~)"
+  },
+  {
+    "original":"遠い",
+    "hiragana":"とおい",
+    "meaning":"far (away), distant"
+  },
+  {
+    "original":"十日",
+    "hiragana":"とおか",
+    "meaning":"ten days; tenth day of the month"
+  },
+  {
+    "original":"～時",
+    "hiragana":"～とき",
+    "meaning":"at the time of ~"
+  },
+  {
+    "original":"時々",
+    "hiragana":"ときどき",
+    "meaning":"sometimes"
+  },
+  {
+    "original":"時計",
+    "hiragana":"とけい",
+    "meaning":"a watch; a clock"
+  },
+  {
+    "original":"どこ",
+    "hiragana":"どこ",
+    "meaning":"where, what place"
+  },
+  {
+    "original":"所",
+    "hiragana":"ところ",
+    "meaning":"place"
+  },
+  {
+    "original":"年",
+    "hiragana":"とし",
+    "meaning":"year, age"
+  },
+  {
+    "original":"図書館",
+    "hiragana":"としょかん",
+    "meaning":"library"
+  },
+  {
+    "original":"どちら",
+    "hiragana":"どちら",
+    "meaning":"which (one) (way); where (polite)"
+  },
+  {
+    "original":"どっち",
+    "hiragana":"どっち",
+    "meaning":"which one, which way"
+  },
+  {
+    "original":"とても",
+    "hiragana":"とても",
+    "meaning":"very (much), greatly, exceedingly"
+  },
+  {
+    "original":"どなた",
+    "hiragana":"どなた",
+    "meaning":"who"
+  },
+  {
+    "original":"隣",
+    "hiragana":"となり",
+    "meaning":"next to, next door to"
+  },
+  {
+    "original":"どの",
+    "hiragana":"どの",
+    "meaning":"which"
+  },
+  {
+    "original":"飛ぶ",
+    "hiragana":"とぶ",
+    "meaning":"to fly, to hop"
+  },
+  {
+    "original":"止まる",
+    "hiragana":"とまる",
+    "meaning":"to come to a halt"
+  },
+  {
+    "original":"友達",
+    "hiragana":"ともだち",
+    "meaning":"friend"
+  },
+  {
+    "original":"土曜日",
+    "hiragana":"どようび",
+    "meaning":"Saturday"
+  },
+  {
+    "original":"鳥",
+    "hiragana":"とり",
+    "meaning":"chicken (lit., bird)"
+  },
+  {
+    "original":"鶏肉",
+    "hiragana":"とりにく",
+    "meaning":"chicken meat"
+  },
+  {
+    "original":"取る",
+    "hiragana":"とる",
+    "meaning":"to take (a class); to get (a grade)"
+  },
+  {
+    "original":"撮る",
+    "hiragana":"とる",
+    "meaning":"to take (a photo), to make (a film)"
+  },
+  {
+    "original":"どれ",
+    "hiragana":"どれ",
+    "meaning":"which one"
+  },
+  {
+    "original":"どんな",
+    "hiragana":"どんな",
+    "meaning":"what, what kind of"
+  },
+  {
+    "original":"ない",
+    "hiragana":"ない",
+    "meaning":"there isn't, doesn't have"
+  },
+  {
+    "original":"ナイフ",
+    "hiragana":"ナイフ",
+    "meaning":"knife"
+  },
+  {
+    "original":"中",
+    "hiragana":"なか",
+    "meaning":"inside, middle, among"
+  },
+  {
+    "original":"長い",
+    "hiragana":"ながい",
+    "meaning":"long, lengthy"
+  },
+  {
+    "original":"鳴く",
+    "hiragana":"なく",
+    "meaning":"to make sound (animal)"
+  },
+  {
+    "original":"無くす",
+    "hiragana":"なくす",
+    "meaning":"to lose something"
+  },
+  {
+    "original":"なぜ",
+    "hiragana":"なぜ",
+    "meaning":"why (same as どうして)"
+  },
+  {
+    "original":"夏",
+    "hiragana":"なつ",
+    "meaning":"summer"
+  },
+  {
+    "original":"夏休み",
+    "hiragana":"なつやすみ",
+    "meaning":"summer vacation"
+  },
+  {
+    "original":"～など",
+    "hiragana":"～など",
+    "meaning":"et cetera"
+  },
+  {
+    "original":"七つ",
+    "hiragana":"ななつ",
+    "meaning":"seven things"
+  },
+  {
+    "original":"何",
+    "hiragana":"なん; なに",
+    "meaning":"what"
+  },
+  {
+    "original":"七日",
+    "hiragana":"なのか",
+    "meaning":"seven days; seventh day (of the month)"
+  },
+  {
+    "original":"名前",
+    "hiragana":"なまえ",
+    "meaning":"name"
+  },
+  {
+    "original":"習う",
+    "hiragana":"ならう",
+    "meaning":"to learn"
+  },
+  {
+    "original":"並ぶ",
+    "hiragana":"ならぶ",
+    "meaning":"to line up, to stand in a line (v.i.)"
+  },
+  {
+    "original":"並べる",
+    "hiragana":"ならべる",
+    "meaning":"to put (things) side by side; to line up"
+  },
+  {
+    "original":"なる",
+    "hiragana":"なる",
+    "meaning":"to become"
+  },
+  {
+    "original":"何～",
+    "hiragana":"なん～",
+    "meaning":"what sort of ~"
+  },
+  {
+    "original":"二",
+    "hiragana":"に",
+    "meaning":"two"
+  },
+  {
+    "original":"にぎやか",
+    "hiragana":"にぎやか",
+    "meaning":"bustling, busy"
+  },
+  {
+    "original":"肉",
+    "hiragana":"にく",
+    "meaning":"meat"
+  },
+  {
+    "original":"西",
+    "hiragana":"にし",
+    "meaning":"west"
+  },
+  {
+    "original":"～日",
+    "hiragana":"～にち",
+    "meaning":"~ day of the month, for ~ days"
+  },
+  {
+    "original":"日曜日",
+    "hiragana":"にちようび",
+    "meaning":"Sunday"
+  },
+  {
+    "original":"荷物",
+    "hiragana":"にもつ",
+    "meaning":"luggage; baggage"
+  },
+  {
+    "original":"ニュース",
+    "hiragana":"ニュース",
+    "meaning":"news"
+  },
+  {
+    "original":"庭",
+    "hiragana":"にわ",
+    "meaning":"garden"
+  },
+  {
+    "original":"～人",
+    "hiragana":"～にん",
+    "meaning":"counter for people"
+  },
+  {
+    "original":"脱ぐ",
+    "hiragana":"ぬぐ",
+    "meaning":"to take off (clothes)"
+  },
+  {
+    "original":"温い",
+    "hiragana":"ぬるい",
+    "meaning":"lukewarm"
+  },
+  {
+    "original":"ネクタイ",
+    "hiragana":"ネクタイ",
+    "meaning":"tie, necktie"
+  },
+  {
+    "original":"猫",
+    "hiragana":"ねこ",
+    "meaning":"cat"
+  },
+  {
+    "original":"寝る",
+    "hiragana":"ねる",
+    "meaning":"to sleep; to go to sleep; to go to bed"
+  },
+  {
+    "original":"～年",
+    "hiragana":"～ねん",
+    "meaning":"~ years"
+  },
+  {
+    "original":"ノート",
+    "hiragana":"ノート",
+    "meaning":"notebook"
+  },
+  {
+    "original":"登る",
+    "hiragana":"のぼる",
+    "meaning":"to climb"
+  },
+  {
+    "original":"飲み物",
+    "hiragana":"のみもの",
+    "meaning":"drink, beverage"
+  },
+  {
+    "original":"飲む",
+    "hiragana":"のむ",
+    "meaning":"to drink"
+  },
+  {
+    "original":"乗る",
+    "hiragana":"のる",
+    "meaning":"to get on, to ride in, to board"
+  },
+  {
+    "original":"歯",
+    "hiragana":"は",
+    "meaning":"tooth"
+  },
+  {
+    "original":"パーティー",
+    "hiragana":"パーティー",
+    "meaning":"a party"
+  },
+  {
+    "original":"はい",
+    "hiragana":"はい",
+    "meaning":"yes"
+  },
+  {
+    "original":"～杯",
+    "hiragana":"～はい",
+    "meaning":"counter for cupfuls"
+  },
+  {
+    "original":"灰皿",
+    "hiragana":"はいざら",
+    "meaning":"ashtray"
+  },
+  {
+    "original":"入る",
+    "hiragana":"はいる",
+    "meaning":"to enter, to contain, to hold"
+  },
+  {
+    "original":"葉書",
+    "hiragana":"はがき",
+    "meaning":"postcard"
+  },
+  {
+    "original":"はく",
+    "hiragana":"はく",
+    "meaning":"to put on (items below your waist)"
+  },
+  {
+    "original":"箱",
+    "hiragana":"はこ",
+    "meaning":"box"
+  },
+  {
+    "original":"橋",
+    "hiragana":"はし",
+    "meaning":"bridge"
+  },
+  {
+    "original":"箸",
+    "hiragana":"はし",
+    "meaning":"chopsticks"
+  },
+  {
+    "original":"始まる",
+    "hiragana":"はじまる",
+    "meaning":"(something) begins"
+  },
+  {
+    "original":"初め; 始め",
+    "hiragana":"はじめ",
+    "meaning":"beginning, start"
+  },
+  {
+    "original":"初めて",
+    "hiragana":"はじめて",
+    "meaning":"for the first time"
+  },
+  {
+    "original":"走る",
+    "hiragana":"はしる",
+    "meaning":"to run"
+  },
+  {
+    "original":"バス",
+    "hiragana":"バス",
+    "meaning":"bus; bath; bass"
+  },
+  {
+    "original":"バター",
+    "hiragana":"バター",
+    "meaning":"butter"
+  },
+  {
+    "original":"二十歳",
+    "hiragana":"はたち",
+    "meaning":"20 years old"
+  },
+  {
+    "original":"働く",
+    "hiragana":"はたらく",
+    "meaning":"to work"
+  },
+  {
+    "original":"八",
+    "hiragana":"はち",
+    "meaning":"eight"
+  },
+  {
+    "original":"二十日",
+    "hiragana":"はつか",
+    "meaning":"twenty days, twentieth (day of the month)"
+  },
+  {
+    "original":"花",
+    "hiragana":"はな",
+    "meaning":"flower"
+  },
+  {
+    "original":"鼻",
+    "hiragana":"はな",
+    "meaning":"nose"
+  },
+  {
+    "original":"話",
+    "hiragana":"はなし",
+    "meaning":"talk (chat), story"
+  },
+  {
+    "original":"話す",
+    "hiragana":"はなす",
+    "meaning":"to speak"
+  },
+  {
+    "original":"母",
+    "hiragana":"はは",
+    "meaning":"(my) mother"
+  },
+  {
+    "original":"早い",
+    "hiragana":"はやい",
+    "meaning":"early"
+  },
+  {
+    "original":"速い",
+    "hiragana":"はやい",
+    "meaning":"fast, quick"
+  },
+  {
+    "original":"春",
+    "hiragana":"はる",
+    "meaning":"spring"
+  },
+  {
+    "original":"貼る",
+    "hiragana":"はる",
+    "meaning":"to post; to paste; to attach"
+  },
+  {
+    "original":"晴れ",
+    "hiragana":"はれ",
+    "meaning":"clear (sunny) weather"
+  },
+  {
+    "original":"晴れる",
+    "hiragana":"はれる",
+    "meaning":"to be sunny"
+  },
+  {
+    "original":"半",
+    "hiragana":"はん",
+    "meaning":"half (e.g., にじはん | half-past two)"
+  },
+  {
+    "original":"晩",
+    "hiragana":"ばん",
+    "meaning":"evening"
+  },
+  {
+    "original":"～番",
+    "hiragana":"～ばん",
+    "meaning":"~st; ~th best"
+  },
+  {
+    "original":"パン",
+    "hiragana":"パン",
+    "meaning":"bread"
+  },
+  {
+    "original":"ハンカチ",
+    "hiragana":"ハンカチ",
+    "meaning":"handkerchief"
+  },
+  {
+    "original":"番号",
+    "hiragana":"ばんごう",
+    "meaning":"number, series of digits"
+  },
+  {
+    "original":"晩御飯",
+    "hiragana":"ばんごはん",
+    "meaning":"dinner, evening meal"
+  },
+  {
+    "original":"半分",
+    "hiragana":"はんぶん",
+    "meaning":"half"
+  },
+  {
+    "original":"東",
+    "hiragana":"ひがし",
+    "meaning":"east"
+  },
+  {
+    "original":"～匹",
+    "hiragana":"～ひき",
+    "meaning":"counter for small animals"
+  },
+  {
+    "original":"引く",
+    "hiragana":"ひく",
+    "meaning":"to pull, to draw; subtract"
+  },
+  {
+    "original":"弾く",
+    "hiragana":"ひく",
+    "meaning":"to play (a string instrument or piano)"
+  },
+  {
+    "original":"低い",
+    "hiragana":"ひくい",
+    "meaning":"short, low"
+  },
+  {
+    "original":"飛行機",
+    "hiragana":"ひこうき",
+    "meaning":"airplane"
+  },
+  {
+    "original":"左",
+    "hiragana":"ひだり",
+    "meaning":"left hand side"
+  },
+  {
+    "original":"人",
+    "hiragana":"ひと",
+    "meaning":"man, person"
+  },
+  {
+    "original":"一つ",
+    "hiragana":"ひとつ",
+    "meaning":"one thing"
+  },
+  {
+    "original":"一月",
+    "hiragana":"ひとつき",
+    "meaning":"one month"
+  },
+  {
+    "original":"一人",
+    "hiragana":"ひとり",
+    "meaning":"one person"
+  },
+  {
+    "original":"暇",
+    "hiragana":"ひま",
+    "meaning":"free time, leisure"
+  },
+  {
+    "original":"百",
+    "hiragana":"ひゃく",
+    "meaning":"hundred"
+  },
+  {
+    "original":"病院",
+    "hiragana":"びょういん",
+    "meaning":"hospital"
+  },
+  {
+    "original":"病気",
+    "hiragana":"びょうき",
+    "meaning":"illness; sickness"
+  },
+  {
+    "original":"平仮名",
+    "hiragana":"ひらがな",
+    "meaning":"hiragana"
+  },
+  {
+    "original":"昼",
+    "hiragana":"ひる",
+    "meaning":"noon, daytime"
+  },
+  {
+    "original":"昼御飯",
+    "hiragana":"ひるごはん",
+    "meaning":"lunch, midday meal"
+  },
+  {
+    "original":"広い",
+    "hiragana":"ひろい",
+    "meaning":"spacious; wide; broad"
+  },
+  {
+    "original":"フィルム",
+    "hiragana":"フィルム",
+    "meaning":"film (roll of)"
+  },
+  {
+    "original":"封筒",
+    "hiragana":"ふうとう",
+    "meaning":"envelope"
+  },
+  {
+    "original":"プール",
+    "hiragana":"プール",
+    "meaning":"swimming pool"
+  },
+  {
+    "original":"フォーク",
+    "hiragana":"フォーク",
+    "meaning":"fork"
+  },
+  {
+    "original":"吹く",
+    "hiragana":"ふく",
+    "meaning":"to blow (wind, etc.)"
+  },
+  {
+    "original":"服",
+    "hiragana":"ふく",
+    "meaning":"clothes"
+  },
+  {
+    "original":"二つ",
+    "hiragana":"ふたつ",
+    "meaning":"two things"
+  },
+  {
+    "original":"豚肉",
+    "hiragana":"ぶたにく",
+    "meaning":"pork"
+  },
+  {
+    "original":"二人",
+    "hiragana":"ふたり",
+    "meaning":"two people"
+  },
+  {
+    "original":"二日",
+    "hiragana":"ふつか",
+    "meaning":"two days; second day of the month"
+  },
+  {
+    "original":"太い",
+    "hiragana":"ふとい",
+    "meaning":"fat, thick"
+  },
+  {
+    "original":"冬",
+    "hiragana":"ふゆ",
+    "meaning":"winter"
+  },
+  {
+    "original":"降る",
+    "hiragana":"ふる",
+    "meaning":"to precipitate, to fall (e.g., rain, snow, etc.)"
+  },
+  {
+    "original":"古い",
+    "hiragana":"ふるい",
+    "meaning":"old (in reference to objects, not people), aged, ancient"
+  },
+  {
+    "original":"～分",
+    "hiragana":"～ふん",
+    "meaning":"~ minutes"
+  },
+  {
+    "original":"文章",
+    "hiragana":"ぶんしょう",
+    "meaning":"sentence, text"
+  },
+  {
+    "original":"ページ",
+    "hiragana":"ページ",
+    "meaning":"a page"
+  },
+  {
+    "original":"下手",
+    "hiragana":"へた",
+    "meaning":"unskillful, poor"
+  },
+  {
+    "original":"ベッド",
+    "hiragana":"ベッド",
+    "meaning":"bed"
+  },
+  {
+    "original":"ペット",
+    "hiragana":"ペット",
+    "meaning":"pet"
+  },
+  {
+    "original":"部屋",
+    "hiragana":"へや",
+    "meaning":"a room"
+  },
+  {
+    "original":"辺",
+    "hiragana":"へん",
+    "meaning":"area, vicinity"
+  },
+  {
+    "original":"ペン",
+    "hiragana":"ペン",
+    "meaning":"pen"
+  },
+  {
+    "original":"勉強",
+    "hiragana":"べんきょう (する)",
+    "meaning":"study"
+  },
+  {
+    "original":"便利",
+    "hiragana":"べんり",
+    "meaning":"convenient, handy"
+  },
+  {
+    "original":"帽子",
+    "hiragana":"ぼうし",
+    "meaning":"hat; cap"
+  },
+  {
+    "original":"ボールペン",
+    "hiragana":"ボールペン",
+    "meaning":"ball-point pen"
+  },
+  {
+    "original":"外",
+    "hiragana":"ほか",
+    "meaning":"other, the rest"
+  },
+  {
+    "original":"ポケット",
+    "hiragana":"ポケット",
+    "meaning":"pocket"
+  },
+  {
+    "original":"欲しい",
+    "hiragana":"ほしい",
+    "meaning":"to want, in need of"
+  },
+  {
+    "original":"ポスト",
+    "hiragana":"ポスト",
+    "meaning":"mailbox; post, position"
+  },
+  {
+    "original":"細い",
+    "hiragana":"ほそい",
+    "meaning":"thin, slender, fine"
+  },
+  {
+    "original":"ボタン",
+    "hiragana":"ボタン",
+    "meaning":"button"
+  },
+  {
+    "original":"ホテル",
+    "hiragana":"ホテル",
+    "meaning":"hotel"
+  },
+  {
+    "original":"本",
+    "hiragana":"ほん",
+    "meaning":"book"
+  },
+  {
+    "original":"～本",
+    "hiragana":"～ほん",
+    "meaning":"counter for long cylindrical things"
+  },
+  {
+    "original":"本棚",
+    "hiragana":"ほんだな",
+    "meaning":"bookshelf"
+  },
+  {
+    "original":"本当",
+    "hiragana":"ほんとう",
+    "meaning":"real, true"
+  },
+  {
+    "original":"～枚",
+    "hiragana":"～まい",
+    "meaning":"counter for flat things"
+  },
+  {
+    "original":"毎朝",
+    "hiragana":"まいあさ",
+    "meaning":"every morning"
+  },
+  {
+    "original":"毎月",
+    "hiragana":"まいげつ; まいつき",
+    "meaning":"every month, monthly"
+  },
+  {
+    "original":"毎週",
+    "hiragana":"まいしゅう",
+    "meaning":"every week"
+  },
+  {
+    "original":"毎日",
+    "hiragana":"まいにち",
+    "meaning":"every day"
+  },
+  {
+    "original":"毎年",
+    "hiragana":"まいねん; まいとし",
+    "meaning":"every year, yearly, annually"
+  },
+  {
+    "original":"毎晩",
+    "hiragana":"まいばん",
+    "meaning":"every night"
+  },
+  {
+    "original":"前",
+    "hiragana":"まえ",
+    "meaning":"before, in front"
+  },
+  {
+    "original":"～前",
+    "hiragana":"～まえ",
+    "meaning":"in front of ~"
+  },
+  {
+    "original":"曲る",
+    "hiragana":"まがる",
+    "meaning":"to turn, to bend"
+  },
+  {
+    "original":"まずい",
+    "hiragana":"まずい",
+    "meaning":"terrible (in reference to food), unappetizing, unpleasant (taste)"
+  },
+  {
+    "original":"また",
+    "hiragana":"また",
+    "meaning":"and; furthermore"
+  },
+  {
+    "original":"まだ",
+    "hiragana":"まだ",
+    "meaning":"yet, still, besides"
+  },
+  {
+    "original":"町",
+    "hiragana":"まち",
+    "meaning":"town; city"
+  },
+  {
+    "original":"待つ",
+    "hiragana":"まつ",
+    "meaning":"to wait"
+  },
+  {
+    "original":"まっすぐ",
+    "hiragana":"まっすぐ",
+    "meaning":"straight (ahead), direct"
+  },
+  {
+    "original":"マッチ",
+    "hiragana":"マッチ",
+    "meaning":"match"
+  },
+  {
+    "original":"窓",
+    "hiragana":"まど",
+    "meaning":"window"
+  },
+  {
+    "original":"丸い; 円い",
+    "hiragana":"まるい",
+    "meaning":"round, circular"
+  },
+  {
+    "original":"万",
+    "hiragana":"まん",
+    "meaning":"ten thousand"
+  },
+  {
+    "original":"万年筆",
+    "hiragana":"まんねんひつ",
+    "meaning":"fountain pen"
+  },
+  {
+    "original":"磨く",
+    "hiragana":"みがく",
+    "meaning":"to brush (teeth); to polish"
+  },
+  {
+    "original":"右",
+    "hiragana":"みぎ",
+    "meaning":"right hand side"
+  },
+  {
+    "original":"短い",
+    "hiragana":"みじかい",
+    "meaning":"short (length)"
+  },
+  {
+    "original":"水",
+    "hiragana":"みず",
+    "meaning":"water"
+  },
+  {
+    "original":"店",
+    "hiragana":"みせ",
+    "meaning":"store, shop"
+  },
+  {
+    "original":"見せる",
+    "hiragana":"みせる",
+    "meaning":"to show, to display"
+  },
+  {
+    "original":"道",
+    "hiragana":"みち",
+    "meaning":"road, street; way, directions"
+  },
+  {
+    "original":"三日",
+    "hiragana":"みっか",
+    "meaning":"three days, third day of the month"
+  },
+  {
+    "original":"三つ",
+    "hiragana":"みっつ",
+    "meaning":"three things"
+  },
+  {
+    "original":"緑",
+    "hiragana":"みどり",
+    "meaning":"green"
+  },
+  {
+    "original":"皆さん",
+    "hiragana":"みなさん",
+    "meaning":"all of you, everyone"
+  },
+  {
+    "original":"南",
+    "hiragana":"みなみ",
+    "meaning":"South"
+  },
+  {
+    "original":"耳",
+    "hiragana":"みみ",
+    "meaning":"ear"
+  },
+  {
+    "original":"見る",
+    "hiragana":"みる",
+    "meaning":"to see, to look"
+  },
+  {
+    "original":"みんな",
+    "hiragana":"みんな",
+    "meaning":"all, everyone, everybody"
+  },
+  {
+    "original":"六日",
+    "hiragana":"むいか",
+    "meaning":"six days; sixth day of month"
+  },
+  {
+    "original":"向こう",
+    "hiragana":"むこう",
+    "meaning":"beyond, over there"
+  },
+  {
+    "original":"難しい",
+    "hiragana":"むずかしい",
+    "meaning":"difficult"
+  },
+  {
+    "original":"六つ",
+    "hiragana":"むっつ",
+    "meaning":"six things"
+  },
+  {
+    "original":"村",
+    "hiragana":"むら",
+    "meaning":"village"
+  },
+  {
+    "original":"目",
+    "hiragana":"め",
+    "meaning":"eye(s)"
+  },
+  {
+    "original":"メートル",
+    "hiragana":"メートル",
+    "meaning":"meter"
+  },
+  {
+    "original":"眼鏡",
+    "hiragana":"めがね",
+    "meaning":"eye glasses"
+  },
+  {
+    "original":"もう",
+    "hiragana":"もう",
+    "meaning":"already; again; more"
+  },
+  {
+    "original":"木曜日",
+    "hiragana":"もくようび",
+    "meaning":"Thursday"
+  },
+  {
+    "original":"もしもし",
+    "hiragana":"もしもし",
+    "meaning":"Hello? (used on the phone)"
+  },
+  {
+    "original":"持つ",
+    "hiragana":"もつ",
+    "meaning":"to hold, to carry; to possess"
+  },
+  {
+    "original":"もっと",
+    "hiragana":"もっと",
+    "meaning":"more"
+  },
+  {
+    "original":"物",
+    "hiragana":"もの",
+    "meaning":"thing (concrete object)"
+  },
+  {
+    "original":"門",
+    "hiragana":"もん",
+    "meaning":"gate"
+  },
+  {
+    "original":"問題",
+    "hiragana":"もんだい",
+    "meaning":"a problem"
+  },
+  {
+    "original":"～屋",
+    "hiragana":"～や",
+    "meaning":"~ shop"
+  },
+  {
+    "original":"八百屋",
+    "hiragana":"やおや",
+    "meaning":"greengrocer"
+  },
+  {
+    "original":"野菜",
+    "hiragana":"やさい",
+    "meaning":"vegetable"
+  },
+  {
+    "original":"易しい",
+    "hiragana":"やさしい",
+    "meaning":"easy, plain, simple"
+  },
+  {
+    "original":"安い",
+    "hiragana":"やすい",
+    "meaning":"inexpensive; cheap (things)"
+  },
+  {
+    "original":"休み",
+    "hiragana":"やすみ",
+    "meaning":"holiday; day off; absence"
+  },
+  {
+    "original":"休む",
+    "hiragana":"やすむ",
+    "meaning":"to rest, to have a break, to get time off"
+  },
+  {
+    "original":"八つ",
+    "hiragana":"やっつ",
+    "meaning":"eight things"
+  },
+  {
+    "original":"山",
+    "hiragana":"やま",
+    "meaning":"mountain"
+  },
+  {
+    "original":"やる",
+    "hiragana":"やる",
+    "meaning":"to do; to give (to pets, parents, siblings, etc.)"
+  },
+  {
+    "original":"夕方",
+    "hiragana":"ゆうがた",
+    "meaning":"late afternoon (typically just before dinner time), evening"
+  },
+  {
+    "original":"夕飯",
+    "hiragana":"ゆうはん",
+    "meaning":"dinner, supper, evening meal"
+  },
+  {
+    "original":"郵便局",
+    "hiragana":"ゆうびんきょく",
+    "meaning":"post office"
+  },
+  {
+    "original":"昨夜",
+    "hiragana":"ゆうべ",
+    "meaning":"last night"
+  },
+  {
+    "original":"有名",
+    "hiragana":"ゆうめい",
+    "meaning":"famous"
+  },
+  {
+    "original":"雪",
+    "hiragana":"ゆき",
+    "meaning":"snow"
+  },
+  {
+    "original":"ゆっくりと",
+    "hiragana":"ゆっくりと",
+    "meaning":"slowly, at ease"
+  },
+  {
+    "original":"八日",
+    "hiragana":"ようか",
+    "meaning":"eight days; eighth day of the month"
+  },
+  {
+    "original":"洋服",
+    "hiragana":"ようふく",
+    "meaning":"Western-style clothes"
+  },
+  {
+    "original":"よく",
+    "hiragana":"よく",
+    "meaning":"frequently, often (much); well, skillfully"
+  },
+  {
+    "original":"横",
+    "hiragana":"よこ",
+    "meaning":"beside; side; width"
+  },
+  {
+    "original":"四日",
+    "hiragana":"よっか",
+    "meaning":"four days; fourth day of the month"
+  },
+  {
+    "original":"四つ",
+    "hiragana":"よっつ",
+    "meaning":"four things"
+  },
+  {
+    "original":"呼ぶ",
+    "hiragana":"よぶ",
+    "meaning":"to call (one's name); to invite"
+  },
+  {
+    "original":"読む",
+    "hiragana":"よむ",
+    "meaning":"to read"
+  },
+  {
+    "original":"夜",
+    "hiragana":"よる",
+    "meaning":"evening, night"
+  },
+  {
+    "original":"弱い",
+    "hiragana":"よわい",
+    "meaning":"weak"
+  },
+  {
+    "original":"来月",
+    "hiragana":"らいげつ",
+    "meaning":"next month"
+  },
+  {
+    "original":"来週",
+    "hiragana":"らいしゅう",
+    "meaning":"next week"
+  },
+  {
+    "original":"来年",
+    "hiragana":"らいねん",
+    "meaning":"next year"
+  },
+  {
+    "original":"ラジオ",
+    "hiragana":"ラジオ",
+    "meaning":"radio"
+  },
+  {
+    "original":"ラジオカセ",
+    "hiragana":"ラジオカセ",
+    "meaning":"radio cassette player"
+  },
+  {
+    "original":"りっぱ",
+    "hiragana":"りっぱ",
+    "meaning":"splendid, fine"
+  },
+  {
+    "original":"留学生",
+    "hiragana":"りゅうがくせい",
+    "meaning":"international student"
+  },
+  {
+    "original":"両親",
+    "hiragana":"りょうしん",
+    "meaning":"parents (lit., both parents)"
+  },
+  {
+    "original":"料理",
+    "hiragana":"りょうり",
+    "meaning":"cooking; cuisine"
+  },
+  {
+    "original":"旅行",
+    "hiragana":"りょこう",
+    "meaning":"travel, trip"
+  },
+  {
+    "original":"零",
+    "hiragana":"れい",
+    "meaning":"zero, nought"
+  },
+  {
+    "original":"冷蔵庫",
+    "hiragana":"れいぞうこ",
+    "meaning":"refrigerator"
+  },
+  {
+    "original":"レコード",
+    "hiragana":"レコード",
+    "meaning":"record"
+  },
+  {
+    "original":"レストラン",
+    "hiragana":"レストラン",
+    "meaning":"restaurant"
+  },
+  {
+    "original":"練習",
+    "hiragana":"れんしゅう (する)",
+    "meaning":"(to) practice"
+  },
+  {
+    "original":"廊下",
+    "hiragana":"ろうか",
+    "meaning":"corridor"
+  },
+  {
+    "original":"六",
+    "hiragana":"ろく",
+    "meaning":"six"
+  },
+  {
+    "original":"ワイシャツ",
+    "hiragana":"ワイシャツ",
+    "meaning":"shirt (lit: white shirt), business shirt"
+  },
+  {
+    "original":"若い",
+    "hiragana":"わかい",
+    "meaning":"young"
+  },
+  {
+    "original":"分かる",
+    "hiragana":"わかる",
+    "meaning":"to understand"
+  },
+  {
+    "original":"忘れる",
+    "hiragana":"わすれる",
+    "meaning":"to forget"
+  },
+  {
+    "original":"私",
+    "hiragana":"わたし",
+    "meaning":"I, myself"
+  },
+  {
+    "original":"私",
+    "hiragana":"わたくし",
+    "meaning":"I (formal), myself, private affairs"
+  },
+  {
+    "original":"渡す",
+    "hiragana":"わたす",
+    "meaning":"to hand (something) over (v.t.); to get across"
+  },
+  {
+    "original":"渡る",
+    "hiragana":"わたる",
+    "meaning":"to cross over, to go across"
+  },
+  {
+    "original":"悪い",
+    "hiragana":"わるい",
+    "meaning":"bad, sinful; inferior"
+  }
+]
