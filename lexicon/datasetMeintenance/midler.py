@@ -5,11 +5,21 @@ import pykakasi
 kks = pykakasi.kakasi()
 
 # Your list of words (You can load this from a text file instead)
-raw_words = [
-    "学生", "先生", "学校", "勉強",  # Education
-    "猫", "犬", "鳥",               # Animals
-    "食べる", "飲む", "寝る"         # Verbs
-]
+raw_words = [ ]
+
+try: 
+    with open('lexicon/datasetMeintenance/wordict.json', 'r', encoding='utf-8') as f:
+        wordFile = json.load(f);  
+    print("Success! opened 'wordict.json' ")
+except FileNotFoundError:
+    print("wordict.json could not be found !") 
+
+for word in wordFile:
+    raw_words.append(word.get('original'))
+
+#import os
+#from django.conf import settings
+#path = os.path.join(settings.BASE_DIR, 'lexicon/datasetMeintenance/wordict.json')
 
 dataset = []
 

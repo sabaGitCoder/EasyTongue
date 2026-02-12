@@ -1,0 +1,3592 @@
+[
+  {
+    "word": "ああ",
+    "reading": "ああ",
+    "romaji": "aa"
+  },
+  {
+    "word": "会う",
+    "reading": "あう",
+    "romaji": "au"
+  },
+  {
+    "word": "青",
+    "reading": "あお",
+    "romaji": "ao"
+  },
+  {
+    "word": "青い",
+    "reading": "あおい",
+    "romaji": "aoi"
+  },
+  {
+    "word": "赤",
+    "reading": "あか",
+    "romaji": "aka"
+  },
+  {
+    "word": "赤い",
+    "reading": "あかい",
+    "romaji": "akai"
+  },
+  {
+    "word": "明るい",
+    "reading": "あかるい",
+    "romaji": "akarui"
+  },
+  {
+    "word": "秋",
+    "reading": "あき",
+    "romaji": "aki"
+  },
+  {
+    "word": "開く",
+    "reading": "ひらく",
+    "romaji": "hiraku"
+  },
+  {
+    "word": "開ける",
+    "reading": "ひらける",
+    "romaji": "hirakeru"
+  },
+  {
+    "word": "上げる",
+    "reading": "あげる",
+    "romaji": "ageru"
+  },
+  {
+    "word": "朝",
+    "reading": "あさ",
+    "romaji": "asa"
+  },
+  {
+    "word": "朝御飯",
+    "reading": "あさごはん",
+    "romaji": "asagohan"
+  },
+  {
+    "word": "明後日",
+    "reading": "みょうごにち",
+    "romaji": "myougonichi"
+  },
+  {
+    "word": "足; 脚",
+    "reading": "あし; あし",
+    "romaji": "ashi; ashi"
+  },
+  {
+    "word": "明日",
+    "reading": "あした",
+    "romaji": "ashita"
+  },
+  {
+    "word": "あそこ",
+    "reading": "あそこ",
+    "romaji": "asoko"
+  },
+  {
+    "word": "遊ぶ",
+    "reading": "あそぶ",
+    "romaji": "asobu"
+  },
+  {
+    "word": "暖かい",
+    "reading": "あたたかい",
+    "romaji": "atatakai"
+  },
+  {
+    "word": "頭",
+    "reading": "あたま",
+    "romaji": "atama"
+  },
+  {
+    "word": "新しい",
+    "reading": "あたらしい",
+    "romaji": "atarashii"
+  },
+  {
+    "word": "あちら",
+    "reading": "あちら",
+    "romaji": "achira"
+  },
+  {
+    "word": "暑い",
+    "reading": "あつい",
+    "romaji": "atsui"
+  },
+  {
+    "word": "熱い",
+    "reading": "あつい",
+    "romaji": "atsui"
+  },
+  {
+    "word": "厚い",
+    "reading": "あつい",
+    "romaji": "atsui"
+  },
+  {
+    "word": "あっち",
+    "reading": "あっち",
+    "romaji": "atchi"
+  },
+  {
+    "word": "後",
+    "reading": "のち",
+    "romaji": "nochi"
+  },
+  {
+    "word": "あなた",
+    "reading": "あなた",
+    "romaji": "anata"
+  },
+  {
+    "word": "兄",
+    "reading": "あに",
+    "romaji": "ani"
+  },
+  {
+    "word": "姉",
+    "reading": "あね",
+    "romaji": "ane"
+  },
+  {
+    "word": "アパート",
+    "reading": "あぱーと",
+    "romaji": "apaato"
+  },
+  {
+    "word": "あの",
+    "reading": "あの",
+    "romaji": "ano"
+  },
+  {
+    "word": "浴びる",
+    "reading": "あびる",
+    "romaji": "abiru"
+  },
+  {
+    "word": "危ない",
+    "reading": "あぶない",
+    "romaji": "abunai"
+  },
+  {
+    "word": "甘い",
+    "reading": "あまい",
+    "romaji": "amai"
+  },
+  {
+    "word": "余り",
+    "reading": "あまり",
+    "romaji": "amari"
+  },
+  {
+    "word": "雨",
+    "reading": "あめ",
+    "romaji": "ame"
+  },
+  {
+    "word": "飴",
+    "reading": "あめ",
+    "romaji": "ame"
+  },
+  {
+    "word": "洗う",
+    "reading": "あらう",
+    "romaji": "arau"
+  },
+  {
+    "word": "在る",
+    "reading": "ある",
+    "romaji": "aru"
+  },
+  {
+    "word": "有る",
+    "reading": "ある",
+    "romaji": "aru"
+  },
+  {
+    "word": "歩く",
+    "reading": "あるく",
+    "romaji": "aruku"
+  },
+  {
+    "word": "あれ",
+    "reading": "あれ",
+    "romaji": "are"
+  },
+  {
+    "word": "いい; よい",
+    "reading": "いい; よい",
+    "romaji": "ii; yoi"
+  },
+  {
+    "word": "いいえ",
+    "reading": "いいえ",
+    "romaji": "iie"
+  },
+  {
+    "word": "言う",
+    "reading": "いう",
+    "romaji": "iu"
+  },
+  {
+    "word": "家",
+    "reading": "いえ",
+    "romaji": "ie"
+  },
+  {
+    "word": "いかが",
+    "reading": "いかが",
+    "romaji": "ikaga"
+  },
+  {
+    "word": "行く",
+    "reading": "いく",
+    "romaji": "iku"
+  },
+  {
+    "word": "いくつ",
+    "reading": "いくつ",
+    "romaji": "ikutsu"
+  },
+  {
+    "word": "いくら",
+    "reading": "いくら",
+    "romaji": "ikura"
+  },
+  {
+    "word": "池",
+    "reading": "いけ",
+    "romaji": "ike"
+  },
+  {
+    "word": "医者",
+    "reading": "いしゃ",
+    "romaji": "isha"
+  },
+  {
+    "word": "椅子",
+    "reading": "いす",
+    "romaji": "isu"
+  },
+  {
+    "word": "忙しい",
+    "reading": "いそがしい",
+    "romaji": "isogashii"
+  },
+  {
+    "word": "痛い",
+    "reading": "いたい",
+    "romaji": "itai"
+  },
+  {
+    "word": "一",
+    "reading": "いち",
+    "romaji": "ichi"
+  },
+  {
+    "word": "一日",
+    "reading": "ついたち",
+    "romaji": "tsuitachi"
+  },
+  {
+    "word": "一番",
+    "reading": "いちばん",
+    "romaji": "ichiban"
+  },
+  {
+    "word": "いつ",
+    "reading": "いつ",
+    "romaji": "itsu"
+  },
+  {
+    "word": "五日",
+    "reading": "いつか",
+    "romaji": "itsuka"
+  },
+  {
+    "word": "一緒",
+    "reading": "いっしょ",
+    "romaji": "issho"
+  },
+  {
+    "word": "五つ",
+    "reading": "いつつ",
+    "romaji": "itsutsu"
+  },
+  {
+    "word": "いつも",
+    "reading": "いつも",
+    "romaji": "itsumo"
+  },
+  {
+    "word": "犬",
+    "reading": "いぬ",
+    "romaji": "inu"
+  },
+  {
+    "word": "今",
+    "reading": "いま",
+    "romaji": "ima"
+  },
+  {
+    "word": "意味",
+    "reading": "いみ",
+    "romaji": "imi"
+  },
+  {
+    "word": "妹",
+    "reading": "いもうと",
+    "romaji": "imouto"
+  },
+  {
+    "word": "嫌",
+    "reading": "いや",
+    "romaji": "iya"
+  },
+  {
+    "word": "入口",
+    "reading": "いりぐち",
+    "romaji": "iriguchi"
+  },
+  {
+    "word": "居る",
+    "reading": "いる",
+    "romaji": "iru"
+  },
+  {
+    "word": "要る",
+    "reading": "いる",
+    "romaji": "iru"
+  },
+  {
+    "word": "入れる",
+    "reading": "いれる",
+    "romaji": "ireru"
+  },
+  {
+    "word": "色",
+    "reading": "いろ",
+    "romaji": "iro"
+  },
+  {
+    "word": "色々",
+    "reading": "いろいろ",
+    "romaji": "iroiro"
+  },
+  {
+    "word": "上",
+    "reading": "うえ",
+    "romaji": "ue"
+  },
+  {
+    "word": "後ろ",
+    "reading": "うしろ",
+    "romaji": "ushiro"
+  },
+  {
+    "word": "薄い",
+    "reading": "うすい",
+    "romaji": "usui"
+  },
+  {
+    "word": "歌",
+    "reading": "うた",
+    "romaji": "uta"
+  },
+  {
+    "word": "歌う",
+    "reading": "うたう",
+    "romaji": "utau"
+  },
+  {
+    "word": "うち",
+    "reading": "うち",
+    "romaji": "uchi"
+  },
+  {
+    "word": "生まれる",
+    "reading": "うまれる",
+    "romaji": "umareru"
+  },
+  {
+    "word": "海",
+    "reading": "うみ",
+    "romaji": "umi"
+  },
+  {
+    "word": "売る",
+    "reading": "うる",
+    "romaji": "uru"
+  },
+  {
+    "word": "うるさい",
+    "reading": "うるさい",
+    "romaji": "urusai"
+  },
+  {
+    "word": "上着",
+    "reading": "うわぎ",
+    "romaji": "uwagi"
+  },
+  {
+    "word": "絵",
+    "reading": "え",
+    "romaji": "e"
+  },
+  {
+    "word": "映画",
+    "reading": "えいが",
+    "romaji": "eiga"
+  },
+  {
+    "word": "映画館",
+    "reading": "えいがかん",
+    "romaji": "eigakan"
+  },
+  {
+    "word": "英語",
+    "reading": "えいご",
+    "romaji": "eigo"
+  },
+  {
+    "word": "ええ",
+    "reading": "ええ",
+    "romaji": "ee"
+  },
+  {
+    "word": "駅",
+    "reading": "えき",
+    "romaji": "eki"
+  },
+  {
+    "word": "エレベーター",
+    "reading": "えれべーたー",
+    "romaji": "erebeetaa"
+  },
+  {
+    "word": "～円",
+    "reading": "～えん",
+    "romaji": "~en"
+  },
+  {
+    "word": "鉛筆",
+    "reading": "えんぴつ",
+    "romaji": "enpitsu"
+  },
+  {
+    "word": "お～",
+    "reading": "お～",
+    "romaji": "o~"
+  },
+  {
+    "word": "美味しい",
+    "reading": "おいしい",
+    "romaji": "oishii"
+  },
+  {
+    "word": "多い",
+    "reading": "おおい",
+    "romaji": "ooi"
+  },
+  {
+    "word": "大きい",
+    "reading": "おおきい",
+    "romaji": "ookii"
+  },
+  {
+    "word": "大きな",
+    "reading": "おおきな",
+    "romaji": "ookina"
+  },
+  {
+    "word": "大勢",
+    "reading": "おおぜい",
+    "romaji": "oozei"
+  },
+  {
+    "word": "お母さん",
+    "reading": "おかあさん",
+    "romaji": "okaasan"
+  },
+  {
+    "word": "お菓子",
+    "reading": "おかし",
+    "romaji": "okashi"
+  },
+  {
+    "word": "お金",
+    "reading": "おきん",
+    "romaji": "okin"
+  },
+  {
+    "word": "起きる",
+    "reading": "おきる",
+    "romaji": "okiru"
+  },
+  {
+    "word": "置く",
+    "reading": "おく",
+    "romaji": "oku"
+  },
+  {
+    "word": "奥さん",
+    "reading": "おくさん",
+    "romaji": "okusan"
+  },
+  {
+    "word": "お酒",
+    "reading": "おさけ",
+    "romaji": "osake"
+  },
+  {
+    "word": "お皿",
+    "reading": "おさら",
+    "romaji": "osara"
+  },
+  {
+    "word": "伯父; 叔父さん",
+    "reading": "おじ; おじさん",
+    "romaji": "oji; ojisan"
+  },
+  {
+    "word": "おじいさん",
+    "reading": "おじいさん",
+    "romaji": "ojiisan"
+  },
+  {
+    "word": "教える",
+    "reading": "おしえる",
+    "romaji": "oshieru"
+  },
+  {
+    "word": "押す",
+    "reading": "おす",
+    "romaji": "osu"
+  },
+  {
+    "word": "遅い",
+    "reading": "おそい",
+    "romaji": "osoi"
+  },
+  {
+    "word": "お茶",
+    "reading": "おちゃ",
+    "romaji": "ocha"
+  },
+  {
+    "word": "お手洗い",
+    "reading": "おてあらい",
+    "romaji": "otearai"
+  },
+  {
+    "word": "お父さん",
+    "reading": "おとうさん",
+    "romaji": "otousan"
+  },
+  {
+    "word": "弟",
+    "reading": "おとうと",
+    "romaji": "otouto"
+  },
+  {
+    "word": "男",
+    "reading": "おとこ",
+    "romaji": "otoko"
+  },
+  {
+    "word": "男の子",
+    "reading": "おとこのこ",
+    "romaji": "otokonoko"
+  },
+  {
+    "word": "一昨日",
+    "reading": "いっさくじつ",
+    "romaji": "issakujitsu"
+  },
+  {
+    "word": "おととし",
+    "reading": "おととし",
+    "romaji": "ototoshi"
+  },
+  {
+    "word": "大人",
+    "reading": "おとな",
+    "romaji": "otona"
+  },
+  {
+    "word": "お腹",
+    "reading": "おはら",
+    "romaji": "ohara"
+  },
+  {
+    "word": "同じ",
+    "reading": "おなじ",
+    "romaji": "onaji"
+  },
+  {
+    "word": "お兄さん",
+    "reading": "おにいさん",
+    "romaji": "oniisan"
+  },
+  {
+    "word": "お姉さん",
+    "reading": "おねえさん",
+    "romaji": "oneesan"
+  },
+  {
+    "word": "伯母さん; 叔母さん",
+    "reading": "おばさん; おばさん",
+    "romaji": "obasan; obasan"
+  },
+  {
+    "word": "おばあさん",
+    "reading": "おばあさん",
+    "romaji": "obaasan"
+  },
+  {
+    "word": "お風呂",
+    "reading": "おふろ",
+    "romaji": "ofuro"
+  },
+  {
+    "word": "お弁当",
+    "reading": "おべんとう",
+    "romaji": "obentou"
+  },
+  {
+    "word": "覚える",
+    "reading": "おぼえる",
+    "romaji": "oboeru"
+  },
+  {
+    "word": "おまわりさん",
+    "reading": "おまわりさん",
+    "romaji": "omawarisan"
+  },
+  {
+    "word": "重い",
+    "reading": "おもい",
+    "romaji": "omoi"
+  },
+  {
+    "word": "面白い",
+    "reading": "おもしろい",
+    "romaji": "omoshiroi"
+  },
+  {
+    "word": "泳ぐ",
+    "reading": "およぐ",
+    "romaji": "oyogu"
+  },
+  {
+    "word": "降りる",
+    "reading": "おりる",
+    "romaji": "oriru"
+  },
+  {
+    "word": "終る",
+    "reading": "おわる",
+    "romaji": "owaru"
+  },
+  {
+    "word": "音楽",
+    "reading": "おんがく",
+    "romaji": "ongaku"
+  },
+  {
+    "word": "女",
+    "reading": "おんな",
+    "romaji": "onna"
+  },
+  {
+    "word": "女の子",
+    "reading": "おんなのこ",
+    "romaji": "onnanoko"
+  },
+  {
+    "word": "～回",
+    "reading": "～かい",
+    "romaji": "~kai"
+  },
+  {
+    "word": "～階",
+    "reading": "～かい",
+    "romaji": "~kai"
+  },
+  {
+    "word": "外国",
+    "reading": "がいこく",
+    "romaji": "gaikoku"
+  },
+  {
+    "word": "外国人",
+    "reading": "がいこくじん",
+    "romaji": "gaikokujin"
+  },
+  {
+    "word": "会社",
+    "reading": "かいしゃ",
+    "romaji": "kaisha"
+  },
+  {
+    "word": "階段",
+    "reading": "かいだん",
+    "romaji": "kaidan"
+  },
+  {
+    "word": "買い物",
+    "reading": "かいもの",
+    "romaji": "kaimono"
+  },
+  {
+    "word": "買う",
+    "reading": "かう",
+    "romaji": "kau"
+  },
+  {
+    "word": "返す",
+    "reading": "かえす",
+    "romaji": "kaesu"
+  },
+  {
+    "word": "帰る",
+    "reading": "かえる",
+    "romaji": "kaeru"
+  },
+  {
+    "word": "顔",
+    "reading": "かお",
+    "romaji": "kao"
+  },
+  {
+    "word": "かかる",
+    "reading": "かかる",
+    "romaji": "kakaru"
+  },
+  {
+    "word": "鍵",
+    "reading": "かぎ",
+    "romaji": "kagi"
+  },
+  {
+    "word": "書く",
+    "reading": "かく",
+    "romaji": "kaku"
+  },
+  {
+    "word": "学生",
+    "reading": "がくせい",
+    "romaji": "gakusei"
+  },
+  {
+    "word": "～か月",
+    "reading": "～かがつ",
+    "romaji": "~kagatsu"
+  },
+  {
+    "word": "掛ける",
+    "reading": "かける",
+    "romaji": "kakeru"
+  },
+  {
+    "word": "かける",
+    "reading": "かける",
+    "romaji": "kakeru"
+  },
+  {
+    "word": "傘",
+    "reading": "かさ",
+    "romaji": "kasa"
+  },
+  {
+    "word": "貸す",
+    "reading": "かす",
+    "romaji": "kasu"
+  },
+  {
+    "word": "風",
+    "reading": "かぜ",
+    "romaji": "kaze"
+  },
+  {
+    "word": "風邪",
+    "reading": "かぜ",
+    "romaji": "kaze"
+  },
+  {
+    "word": "方",
+    "reading": "ほう",
+    "romaji": "hou"
+  },
+  {
+    "word": "家族",
+    "reading": "かぞく",
+    "romaji": "kazoku"
+  },
+  {
+    "word": "片仮名",
+    "reading": "かたかな",
+    "romaji": "katakana"
+  },
+  {
+    "word": "～月",
+    "reading": "～がつ",
+    "romaji": "~gatsu"
+  },
+  {
+    "word": "学校",
+    "reading": "がっこう",
+    "romaji": "gakkou"
+  },
+  {
+    "word": "カップ",
+    "reading": "かっぷ",
+    "romaji": "kappu"
+  },
+  {
+    "word": "家庭",
+    "reading": "かてい",
+    "romaji": "katei"
+  },
+  {
+    "word": "角",
+    "reading": "かく",
+    "romaji": "kaku"
+  },
+  {
+    "word": "かばん",
+    "reading": "かばん",
+    "romaji": "kaban"
+  },
+  {
+    "word": "花瓶",
+    "reading": "かびん",
+    "romaji": "kabin"
+  },
+  {
+    "word": "かぶる",
+    "reading": "かぶる",
+    "romaji": "kaburu"
+  },
+  {
+    "word": "紙",
+    "reading": "かみ",
+    "romaji": "kami"
+  },
+  {
+    "word": "カメラ",
+    "reading": "かめら",
+    "romaji": "kamera"
+  },
+  {
+    "word": "火曜日",
+    "reading": "かようび",
+    "romaji": "kayoubi"
+  },
+  {
+    "word": "辛い",
+    "reading": "つらい",
+    "romaji": "tsurai"
+  },
+  {
+    "word": "体",
+    "reading": "からだ",
+    "romaji": "karada"
+  },
+  {
+    "word": "借りる",
+    "reading": "かりる",
+    "romaji": "kariru"
+  },
+  {
+    "word": "～がる",
+    "reading": "～がる",
+    "romaji": "~garu"
+  },
+  {
+    "word": "軽い",
+    "reading": "かるい",
+    "romaji": "karui"
+  },
+  {
+    "word": "カレー",
+    "reading": "かれー",
+    "romaji": "karee"
+  },
+  {
+    "word": "カレンダー",
+    "reading": "かれんだー",
+    "romaji": "karendaa"
+  },
+  {
+    "word": "川; 河",
+    "reading": "かわ; かわ",
+    "romaji": "kawa; kawa"
+  },
+  {
+    "word": "～側",
+    "reading": "～がわ",
+    "romaji": "~gawa"
+  },
+  {
+    "word": "可愛い",
+    "reading": "かわい",
+    "romaji": "kawai"
+  },
+  {
+    "word": "漢字",
+    "reading": "かんじ",
+    "romaji": "kanji"
+  },
+  {
+    "word": "木",
+    "reading": "き",
+    "romaji": "ki"
+  },
+  {
+    "word": "黄色",
+    "reading": "きいろ",
+    "romaji": "kiiro"
+  },
+  {
+    "word": "黄色い",
+    "reading": "きいろい",
+    "romaji": "kiiroi"
+  },
+  {
+    "word": "消える",
+    "reading": "きえる",
+    "romaji": "kieru"
+  },
+  {
+    "word": "聞く",
+    "reading": "きく",
+    "romaji": "kiku"
+  },
+  {
+    "word": "北",
+    "reading": "きた",
+    "romaji": "kita"
+  },
+  {
+    "word": "ギター",
+    "reading": "ぎたー",
+    "romaji": "gitaa"
+  },
+  {
+    "word": "汚い",
+    "reading": "きたない",
+    "romaji": "kitanai"
+  },
+  {
+    "word": "喫茶店",
+    "reading": "きっさてん",
+    "romaji": "kissaten"
+  },
+  {
+    "word": "切手",
+    "reading": "きって",
+    "romaji": "kitte"
+  },
+  {
+    "word": "切符",
+    "reading": "きっぷ",
+    "romaji": "kippu"
+  },
+  {
+    "word": "昨日",
+    "reading": "きのう",
+    "romaji": "kinou"
+  },
+  {
+    "word": "九",
+    "reading": "きゅう",
+    "romaji": "kyuu"
+  },
+  {
+    "word": "牛肉",
+    "reading": "ぎゅうにく",
+    "romaji": "gyuuniku"
+  },
+  {
+    "word": "牛乳",
+    "reading": "ぎゅうにゅう",
+    "romaji": "gyuunyuu"
+  },
+  {
+    "word": "今日",
+    "reading": "きょう",
+    "romaji": "kyou"
+  },
+  {
+    "word": "教室",
+    "reading": "きょうしつ",
+    "romaji": "kyoushitsu"
+  },
+  {
+    "word": "兄弟",
+    "reading": "きょうだい",
+    "romaji": "kyoudai"
+  },
+  {
+    "word": "去年",
+    "reading": "きょねん",
+    "romaji": "kyonen"
+  },
+  {
+    "word": "嫌い",
+    "reading": "きらい",
+    "romaji": "kirai"
+  },
+  {
+    "word": "切る",
+    "reading": "きる",
+    "romaji": "kiru"
+  },
+  {
+    "word": "着る",
+    "reading": "きる",
+    "romaji": "kiru"
+  },
+  {
+    "word": "綺麗",
+    "reading": "きれい",
+    "romaji": "kirei"
+  },
+  {
+    "word": "キロ; キログラム",
+    "reading": "きろ; きろぐらむ",
+    "romaji": "kiro; kiroguramu"
+  },
+  {
+    "word": "キロ; キロメートル",
+    "reading": "きろ; きろめーとる",
+    "romaji": "kiro; kiromeetoru"
+  },
+  {
+    "word": "銀行",
+    "reading": "ぎんこう",
+    "romaji": "ginkou"
+  },
+  {
+    "word": "金曜日",
+    "reading": "きんようび",
+    "romaji": "kinyoubi"
+  },
+  {
+    "word": "九",
+    "reading": "きゅう",
+    "romaji": "kyuu"
+  },
+  {
+    "word": "薬",
+    "reading": "くすり",
+    "romaji": "kusuri"
+  },
+  {
+    "word": "下さい",
+    "reading": "ください",
+    "romaji": "kudasai"
+  },
+  {
+    "word": "果物",
+    "reading": "くだもの",
+    "romaji": "kudamono"
+  },
+  {
+    "word": "口",
+    "reading": "くち",
+    "romaji": "kuchi"
+  },
+  {
+    "word": "靴",
+    "reading": "くつ",
+    "romaji": "kutsu"
+  },
+  {
+    "word": "靴下",
+    "reading": "くつした",
+    "romaji": "kutsushita"
+  },
+  {
+    "word": "国",
+    "reading": "くに",
+    "romaji": "kuni"
+  },
+  {
+    "word": "曇り",
+    "reading": "くもり",
+    "romaji": "kumori"
+  },
+  {
+    "word": "曇る",
+    "reading": "くもる",
+    "romaji": "kumoru"
+  },
+  {
+    "word": "暗い",
+    "reading": "くらい",
+    "romaji": "kurai"
+  },
+  {
+    "word": "～くらい; ぐらい",
+    "reading": "～くらい; ぐらい",
+    "romaji": "~kurai; gurai"
+  },
+  {
+    "word": "クラス",
+    "reading": "くらす",
+    "romaji": "kurasu"
+  },
+  {
+    "word": "グラム",
+    "reading": "ぐらむ",
+    "romaji": "guramu"
+  },
+  {
+    "word": "来る",
+    "reading": "くる",
+    "romaji": "kuru"
+  },
+  {
+    "word": "車",
+    "reading": "くるま",
+    "romaji": "kuruma"
+  },
+  {
+    "word": "黒",
+    "reading": "くろ",
+    "romaji": "kuro"
+  },
+  {
+    "word": "黒い",
+    "reading": "くろい",
+    "romaji": "kuroi"
+  },
+  {
+    "word": "警官",
+    "reading": "けいかん",
+    "romaji": "keikan"
+  },
+  {
+    "word": "今朝",
+    "reading": "けさ",
+    "romaji": "kesa"
+  },
+  {
+    "word": "消す",
+    "reading": "けす",
+    "romaji": "kesu"
+  },
+  {
+    "word": "結構",
+    "reading": "けっこう",
+    "romaji": "kekkou"
+  },
+  {
+    "word": "結婚",
+    "reading": "けっこん",
+    "romaji": "kekkon"
+  },
+  {
+    "word": "月曜日",
+    "reading": "げつようび",
+    "romaji": "getsuyoubi"
+  },
+  {
+    "word": "玄関",
+    "reading": "げんかん",
+    "romaji": "genkan"
+  },
+  {
+    "word": "元気",
+    "reading": "げんき",
+    "romaji": "genki"
+  },
+  {
+    "word": "～個",
+    "reading": "～こ",
+    "romaji": "~ko"
+  },
+  {
+    "word": "五",
+    "reading": "ご",
+    "romaji": "go"
+  },
+  {
+    "word": "～語",
+    "reading": "～ご",
+    "romaji": "~go"
+  },
+  {
+    "word": "公園",
+    "reading": "こうえん",
+    "romaji": "kouen"
+  },
+  {
+    "word": "交差点",
+    "reading": "こうさてん",
+    "romaji": "kousaten"
+  },
+  {
+    "word": "紅茶",
+    "reading": "こうちゃ",
+    "romaji": "koucha"
+  },
+  {
+    "word": "交番",
+    "reading": "こうばん",
+    "romaji": "kouban"
+  },
+  {
+    "word": "声",
+    "reading": "こえ",
+    "romaji": "koe"
+  },
+  {
+    "word": "コート",
+    "reading": "こーと",
+    "romaji": "kooto"
+  },
+  {
+    "word": "コーヒー",
+    "reading": "こーひー",
+    "romaji": "koohii"
+  },
+  {
+    "word": "ここ",
+    "reading": "ここ",
+    "romaji": "koko"
+  },
+  {
+    "word": "午後",
+    "reading": "ごご",
+    "romaji": "gogo"
+  },
+  {
+    "word": "九日",
+    "reading": "ここのか",
+    "romaji": "kokonoka"
+  },
+  {
+    "word": "九つ",
+    "reading": "ここのつ",
+    "romaji": "kokonotsu"
+  },
+  {
+    "word": "午前",
+    "reading": "ごぜん",
+    "romaji": "gozen"
+  },
+  {
+    "word": "答える",
+    "reading": "こたえる",
+    "romaji": "kotaeru"
+  },
+  {
+    "word": "こちら",
+    "reading": "こちら",
+    "romaji": "kochira"
+  },
+  {
+    "word": "こっち",
+    "reading": "こっち",
+    "romaji": "kotchi"
+  },
+  {
+    "word": "コップ",
+    "reading": "こっぷ",
+    "romaji": "koppu"
+  },
+  {
+    "word": "今年",
+    "reading": "こんねん",
+    "romaji": "konnen"
+  },
+  {
+    "word": "言葉",
+    "reading": "ことば",
+    "romaji": "kotoba"
+  },
+  {
+    "word": "子供",
+    "reading": "こども",
+    "romaji": "kodomo"
+  },
+  {
+    "word": "この",
+    "reading": "この",
+    "romaji": "kono"
+  },
+  {
+    "word": "御飯",
+    "reading": "ごはん",
+    "romaji": "gohan"
+  },
+  {
+    "word": "コピーする",
+    "reading": "こぴーする",
+    "romaji": "kopiisuru"
+  },
+  {
+    "word": "困る",
+    "reading": "こまる",
+    "romaji": "komaru"
+  },
+  {
+    "word": "これ",
+    "reading": "これ",
+    "romaji": "kore"
+  },
+  {
+    "word": "～ころ; ～ごろ",
+    "reading": "～ころ; ～ごろ",
+    "romaji": "~koro; ~goro"
+  },
+  {
+    "word": "今月",
+    "reading": "こんげつ",
+    "romaji": "kongetsu"
+  },
+  {
+    "word": "今週",
+    "reading": "こんしゅう",
+    "romaji": "konshuu"
+  },
+  {
+    "word": "こんな",
+    "reading": "こんな",
+    "romaji": "konna"
+  },
+  {
+    "word": "今晩",
+    "reading": "こんばん",
+    "romaji": "konban"
+  },
+  {
+    "word": "さあ",
+    "reading": "さあ",
+    "romaji": "saa"
+  },
+  {
+    "word": "～歳",
+    "reading": "～とし",
+    "romaji": "~toshi"
+  },
+  {
+    "word": "財布",
+    "reading": "さいふ",
+    "romaji": "saifu"
+  },
+  {
+    "word": "魚",
+    "reading": "さかな",
+    "romaji": "sakana"
+  },
+  {
+    "word": "先",
+    "reading": "さき",
+    "romaji": "saki"
+  },
+  {
+    "word": "咲く",
+    "reading": "さく",
+    "romaji": "saku"
+  },
+  {
+    "word": "作文",
+    "reading": "さくぶん",
+    "romaji": "sakubun"
+  },
+  {
+    "word": "差す",
+    "reading": "さす",
+    "romaji": "sasu"
+  },
+  {
+    "word": "～冊",
+    "reading": "～さつ",
+    "romaji": "~satsu"
+  },
+  {
+    "word": "雑誌",
+    "reading": "ざっし",
+    "romaji": "zasshi"
+  },
+  {
+    "word": "砂糖",
+    "reading": "さとう",
+    "romaji": "satou"
+  },
+  {
+    "word": "寒い",
+    "reading": "さむい",
+    "romaji": "samui"
+  },
+  {
+    "word": "さ来年",
+    "reading": "さらいねん",
+    "romaji": "sarainen"
+  },
+  {
+    "word": "～さん",
+    "reading": "～さん",
+    "romaji": "~san"
+  },
+  {
+    "word": "三",
+    "reading": "さん",
+    "romaji": "san"
+  },
+  {
+    "word": "散歩",
+    "reading": "さんぽ",
+    "romaji": "sanpo"
+  },
+  {
+    "word": "四",
+    "reading": "し",
+    "romaji": "shi"
+  },
+  {
+    "word": "～時",
+    "reading": "～とき",
+    "romaji": "~toki"
+  },
+  {
+    "word": "塩",
+    "reading": "しお",
+    "romaji": "shio"
+  },
+  {
+    "word": "しかし",
+    "reading": "しかし",
+    "romaji": "shikashi"
+  },
+  {
+    "word": "時間",
+    "reading": "じかん",
+    "romaji": "jikan"
+  },
+  {
+    "word": "～時間",
+    "reading": "～じかん",
+    "romaji": "~jikan"
+  },
+  {
+    "word": "仕事",
+    "reading": "しごと",
+    "romaji": "shigoto"
+  },
+  {
+    "word": "辞書",
+    "reading": "じしょ",
+    "romaji": "jisho"
+  },
+  {
+    "word": "静か",
+    "reading": "しずか",
+    "romaji": "shizuka"
+  },
+  {
+    "word": "下",
+    "reading": "した",
+    "romaji": "shita"
+  },
+  {
+    "word": "七",
+    "reading": "しち",
+    "romaji": "shichi"
+  },
+  {
+    "word": "質問",
+    "reading": "しつもん",
+    "romaji": "shitsumon"
+  },
+  {
+    "word": "自転車",
+    "reading": "じてんしゃ",
+    "romaji": "jitensha"
+  },
+  {
+    "word": "自動車",
+    "reading": "じどうしゃ",
+    "romaji": "jidousha"
+  },
+  {
+    "word": "死ぬ",
+    "reading": "しぬ",
+    "romaji": "shinu"
+  },
+  {
+    "word": "字引",
+    "reading": "じびき",
+    "romaji": "jibiki"
+  },
+  {
+    "word": "自分",
+    "reading": "じぶん",
+    "romaji": "jibun"
+  },
+  {
+    "word": "閉まる",
+    "reading": "しまる",
+    "romaji": "shimaru"
+  },
+  {
+    "word": "閉める",
+    "reading": "しめる",
+    "romaji": "shimeru"
+  },
+  {
+    "word": "締める",
+    "reading": "しめる",
+    "romaji": "shimeru"
+  },
+  {
+    "word": "じゃ; じゃあ",
+    "reading": "じゃ; じゃあ",
+    "romaji": "ja; jaa"
+  },
+  {
+    "word": "写真",
+    "reading": "しゃしん",
+    "romaji": "shashin"
+  },
+  {
+    "word": "シャツ",
+    "reading": "しゃつ",
+    "romaji": "shatsu"
+  },
+  {
+    "word": "シャワー",
+    "reading": "しゃわー",
+    "romaji": "shawaa"
+  },
+  {
+    "word": "十",
+    "reading": "じゅう",
+    "romaji": "juu"
+  },
+  {
+    "word": "～中",
+    "reading": "～なか",
+    "romaji": "~naka"
+  },
+  {
+    "word": "～週間",
+    "reading": "～しゅうかん",
+    "romaji": "~shuukan"
+  },
+  {
+    "word": "授業",
+    "reading": "じゅぎょう",
+    "romaji": "jugyou"
+  },
+  {
+    "word": "宿題",
+    "reading": "しゅくだい",
+    "romaji": "shukudai"
+  },
+  {
+    "word": "上手",
+    "reading": "じょうず",
+    "romaji": "jouzu"
+  },
+  {
+    "word": "丈夫",
+    "reading": "じょうぶ",
+    "romaji": "joubu"
+  },
+  {
+    "word": "醤油",
+    "reading": "しょうゆ",
+    "romaji": "shouyu"
+  },
+  {
+    "word": "食堂",
+    "reading": "しょくどう",
+    "romaji": "shokudou"
+  },
+  {
+    "word": "知る",
+    "reading": "しる",
+    "romaji": "shiru"
+  },
+  {
+    "word": "白",
+    "reading": "しろ",
+    "romaji": "shiro"
+  },
+  {
+    "word": "白い",
+    "reading": "しろい",
+    "romaji": "shiroi"
+  },
+  {
+    "word": "～人",
+    "reading": "～にん",
+    "romaji": "~nin"
+  },
+  {
+    "word": "新聞",
+    "reading": "しんぶん",
+    "romaji": "shinbun"
+  },
+  {
+    "word": "水曜日",
+    "reading": "すいようび",
+    "romaji": "suiyoubi"
+  },
+  {
+    "word": "吸う",
+    "reading": "すう",
+    "romaji": "suu"
+  },
+  {
+    "word": "スカート",
+    "reading": "すかーと",
+    "romaji": "sukaato"
+  },
+  {
+    "word": "好き",
+    "reading": "すき",
+    "romaji": "suki"
+  },
+  {
+    "word": "～すぎ",
+    "reading": "～すぎ",
+    "romaji": "~sugi"
+  },
+  {
+    "word": "少ない",
+    "reading": "すくない",
+    "romaji": "sukunai"
+  },
+  {
+    "word": "すぐに",
+    "reading": "すぐに",
+    "romaji": "suguni"
+  },
+  {
+    "word": "少し",
+    "reading": "すこし",
+    "romaji": "sukoshi"
+  },
+  {
+    "word": "涼しい",
+    "reading": "すずしい",
+    "romaji": "suzushii"
+  },
+  {
+    "word": "～ずつ",
+    "reading": "～ずつ",
+    "romaji": "~zutsu"
+  },
+  {
+    "word": "ストーブ",
+    "reading": "すとーぶ",
+    "romaji": "sutoobu"
+  },
+  {
+    "word": "スプーン",
+    "reading": "すぷーん",
+    "romaji": "supuun"
+  },
+  {
+    "word": "スポーツ",
+    "reading": "すぽーつ",
+    "romaji": "supootsu"
+  },
+  {
+    "word": "ズボン",
+    "reading": "ずぼん",
+    "romaji": "zubon"
+  },
+  {
+    "word": "住む",
+    "reading": "すむ",
+    "romaji": "sumu"
+  },
+  {
+    "word": "する",
+    "reading": "する",
+    "romaji": "suru"
+  },
+  {
+    "word": "座る",
+    "reading": "すわる",
+    "romaji": "suwaru"
+  },
+  {
+    "word": "背",
+    "reading": "せ",
+    "romaji": "se"
+  },
+  {
+    "word": "生徒",
+    "reading": "せいと",
+    "romaji": "seito"
+  },
+  {
+    "word": "セーター",
+    "reading": "せーたー",
+    "romaji": "seetaa"
+  },
+  {
+    "word": "石鹸",
+    "reading": "せっけん",
+    "romaji": "sekken"
+  },
+  {
+    "word": "背広",
+    "reading": "せびろ",
+    "romaji": "sebiro"
+  },
+  {
+    "word": "狭い",
+    "reading": "せまい",
+    "romaji": "semai"
+  },
+  {
+    "word": "ゼロ",
+    "reading": "ぜろ",
+    "romaji": "zero"
+  },
+  {
+    "word": "千",
+    "reading": "せん",
+    "romaji": "sen"
+  },
+  {
+    "word": "先月",
+    "reading": "せんげつ",
+    "romaji": "sengetsu"
+  },
+  {
+    "word": "先週",
+    "reading": "せんしゅう",
+    "romaji": "senshuu"
+  },
+  {
+    "word": "先生",
+    "reading": "せんせい",
+    "romaji": "sensei"
+  },
+  {
+    "word": "洗濯",
+    "reading": "せんたく",
+    "romaji": "sentaku"
+  },
+  {
+    "word": "全部",
+    "reading": "ぜんぶ",
+    "romaji": "zenbu"
+  },
+  {
+    "word": "そう; そうです",
+    "reading": "そう; そうです",
+    "romaji": "sou; soudesu"
+  },
+  {
+    "word": "掃除",
+    "reading": "そうじ",
+    "romaji": "souji"
+  },
+  {
+    "word": "そうして; そして",
+    "reading": "そうして; そして",
+    "romaji": "soushite; soshite"
+  },
+  {
+    "word": "そこ",
+    "reading": "そこ",
+    "romaji": "soko"
+  },
+  {
+    "word": "そちら",
+    "reading": "そちら",
+    "romaji": "sochira"
+  },
+  {
+    "word": "そっち",
+    "reading": "そっち",
+    "romaji": "sotchi"
+  },
+  {
+    "word": "外",
+    "reading": "そと",
+    "romaji": "soto"
+  },
+  {
+    "word": "その",
+    "reading": "その",
+    "romaji": "sono"
+  },
+  {
+    "word": "そば",
+    "reading": "そば",
+    "romaji": "soba"
+  },
+  {
+    "word": "空",
+    "reading": "そら",
+    "romaji": "sora"
+  },
+  {
+    "word": "それ",
+    "reading": "それ",
+    "romaji": "sore"
+  },
+  {
+    "word": "それから",
+    "reading": "それから",
+    "romaji": "sorekara"
+  },
+  {
+    "word": "それでは",
+    "reading": "それでは",
+    "romaji": "soredeha"
+  },
+  {
+    "word": "～台",
+    "reading": "～だい",
+    "romaji": "~dai"
+  },
+  {
+    "word": "大学",
+    "reading": "だいがく",
+    "romaji": "daigaku"
+  },
+  {
+    "word": "大使館",
+    "reading": "たいしかん",
+    "romaji": "taishikan"
+  },
+  {
+    "word": "大丈夫",
+    "reading": "だいじょうぶ",
+    "romaji": "daijoubu"
+  },
+  {
+    "word": "大好き",
+    "reading": "だいすき",
+    "romaji": "daisuki"
+  },
+  {
+    "word": "大切",
+    "reading": "たいせつ",
+    "romaji": "taisetsu"
+  },
+  {
+    "word": "台所",
+    "reading": "だいどころ",
+    "romaji": "daidokoro"
+  },
+  {
+    "word": "大変",
+    "reading": "たいへん",
+    "romaji": "taihen"
+  },
+  {
+    "word": "高い",
+    "reading": "たかい",
+    "romaji": "takai"
+  },
+  {
+    "word": "～だけ",
+    "reading": "～だけ",
+    "romaji": "~dake"
+  },
+  {
+    "word": "沢山",
+    "reading": "たくさん",
+    "romaji": "takusan"
+  },
+  {
+    "word": "タクシー",
+    "reading": "たくしー",
+    "romaji": "takushii"
+  },
+  {
+    "word": "出す",
+    "reading": "だす",
+    "romaji": "dasu"
+  },
+  {
+    "word": "～たち",
+    "reading": "～たち",
+    "romaji": "~tachi"
+  },
+  {
+    "word": "立つ",
+    "reading": "たつ",
+    "romaji": "tatsu"
+  },
+  {
+    "word": "たて",
+    "reading": "たて",
+    "romaji": "tate"
+  },
+  {
+    "word": "建物",
+    "reading": "たてもの",
+    "romaji": "tatemono"
+  },
+  {
+    "word": "楽しい",
+    "reading": "たのしい",
+    "romaji": "tanoshii"
+  },
+  {
+    "word": "頼む",
+    "reading": "たのむ",
+    "romaji": "tanomu"
+  },
+  {
+    "word": "たばこ",
+    "reading": "たばこ",
+    "romaji": "tabako"
+  },
+  {
+    "word": "多分",
+    "reading": "たぶん",
+    "romaji": "tabun"
+  },
+  {
+    "word": "食べ物",
+    "reading": "たべもの",
+    "romaji": "tabemono"
+  },
+  {
+    "word": "食べる",
+    "reading": "たべる",
+    "romaji": "taberu"
+  },
+  {
+    "word": "卵",
+    "reading": "たまご",
+    "romaji": "tamago"
+  },
+  {
+    "word": "誰",
+    "reading": "だれ",
+    "romaji": "dare"
+  },
+  {
+    "word": "誰か",
+    "reading": "だれか",
+    "romaji": "dareka"
+  },
+  {
+    "word": "誕生日",
+    "reading": "たんじょうび",
+    "romaji": "tanjoubi"
+  },
+  {
+    "word": "段々",
+    "reading": "だんだん",
+    "romaji": "dandan"
+  },
+  {
+    "word": "小さい",
+    "reading": "ちーさい",
+    "romaji": "chiisai"
+  },
+  {
+    "word": "小さな",
+    "reading": "ちいさな",
+    "romaji": "chiisana"
+  },
+  {
+    "word": "近い",
+    "reading": "ちかい",
+    "romaji": "chikai"
+  },
+  {
+    "word": "違う",
+    "reading": "ちがう",
+    "romaji": "chigau"
+  },
+  {
+    "word": "近く",
+    "reading": "ちかく",
+    "romaji": "chikaku"
+  },
+  {
+    "word": "地下鉄",
+    "reading": "ちかてつ",
+    "romaji": "chikatetsu"
+  },
+  {
+    "word": "地図",
+    "reading": "ちず",
+    "romaji": "chizu"
+  },
+  {
+    "word": "父",
+    "reading": "ちち",
+    "romaji": "chichi"
+  },
+  {
+    "word": "茶色",
+    "reading": "ちゃいろ",
+    "romaji": "chairo"
+  },
+  {
+    "word": "茶碗",
+    "reading": "ちゃわん",
+    "romaji": "chawan"
+  },
+  {
+    "word": "～中",
+    "reading": "～なか",
+    "romaji": "~naka"
+  },
+  {
+    "word": "丁度",
+    "reading": "ちょうど",
+    "romaji": "choudo"
+  },
+  {
+    "word": "ちょっと",
+    "reading": "ちょっと",
+    "romaji": "chotto"
+  },
+  {
+    "word": "一日",
+    "reading": "ついたち",
+    "romaji": "tsuitachi"
+  },
+  {
+    "word": "使う",
+    "reading": "つかう",
+    "romaji": "tsukau"
+  },
+  {
+    "word": "疲れる",
+    "reading": "つかれる",
+    "romaji": "tsukareru"
+  },
+  {
+    "word": "次",
+    "reading": "つぎ",
+    "romaji": "tsugi"
+  },
+  {
+    "word": "着く",
+    "reading": "つく",
+    "romaji": "tsuku"
+  },
+  {
+    "word": "机",
+    "reading": "つくえ",
+    "romaji": "tsukue"
+  },
+  {
+    "word": "作る",
+    "reading": "つくる",
+    "romaji": "tsukuru"
+  },
+  {
+    "word": "つける",
+    "reading": "つける",
+    "romaji": "tsukeru"
+  },
+  {
+    "word": "勤める",
+    "reading": "つとめる",
+    "romaji": "tsutomeru"
+  },
+  {
+    "word": "つまらない",
+    "reading": "つまらない",
+    "romaji": "tsumaranai"
+  },
+  {
+    "word": "冷たい",
+    "reading": "つめたい",
+    "romaji": "tsumetai"
+  },
+  {
+    "word": "強い",
+    "reading": "つよい",
+    "romaji": "tsuyoi"
+  },
+  {
+    "word": "手",
+    "reading": "て",
+    "romaji": "te"
+  },
+  {
+    "word": "テープ",
+    "reading": "てーぷ",
+    "romaji": "teepu"
+  },
+  {
+    "word": "テープレコーダー",
+    "reading": "てーぷれこーだー",
+    "romaji": "teepurekoodaa"
+  },
+  {
+    "word": "テーブル",
+    "reading": "てーぶる",
+    "romaji": "teeburu"
+  },
+  {
+    "word": "出かける",
+    "reading": "でかける",
+    "romaji": "dekakeru"
+  },
+  {
+    "word": "手紙",
+    "reading": "てがみ",
+    "romaji": "tegami"
+  },
+  {
+    "word": "できる",
+    "reading": "できる",
+    "romaji": "dekiru"
+  },
+  {
+    "word": "出口",
+    "reading": "でぐち",
+    "romaji": "deguchi"
+  },
+  {
+    "word": "テスト",
+    "reading": "てすと",
+    "romaji": "tesuto"
+  },
+  {
+    "word": "では",
+    "reading": "では",
+    "romaji": "deha"
+  },
+  {
+    "word": "デパート",
+    "reading": "でぱーと",
+    "romaji": "depaato"
+  },
+  {
+    "word": "でも",
+    "reading": "でも",
+    "romaji": "demo"
+  },
+  {
+    "word": "出る",
+    "reading": "でる",
+    "romaji": "deru"
+  },
+  {
+    "word": "テレビ",
+    "reading": "てれび",
+    "romaji": "terebi"
+  },
+  {
+    "word": "天気",
+    "reading": "てんき",
+    "romaji": "tenki"
+  },
+  {
+    "word": "電気",
+    "reading": "でんき",
+    "romaji": "denki"
+  },
+  {
+    "word": "電車",
+    "reading": "でんしゃ",
+    "romaji": "densha"
+  },
+  {
+    "word": "電話",
+    "reading": "でんわ",
+    "romaji": "denwa"
+  },
+  {
+    "word": "戸",
+    "reading": "こ",
+    "romaji": "ko"
+  },
+  {
+    "word": "～度",
+    "reading": "～ど",
+    "romaji": "~do"
+  },
+  {
+    "word": "ドア",
+    "reading": "どあ",
+    "romaji": "doa"
+  },
+  {
+    "word": "トイレ",
+    "reading": "といれ",
+    "romaji": "toire"
+  },
+  {
+    "word": "どう",
+    "reading": "どう",
+    "romaji": "dou"
+  },
+  {
+    "word": "どうして",
+    "reading": "どうして",
+    "romaji": "doushite"
+  },
+  {
+    "word": "どうぞ",
+    "reading": "どうぞ",
+    "romaji": "douzo"
+  },
+  {
+    "word": "動物",
+    "reading": "どうぶつ",
+    "romaji": "doubutsu"
+  },
+  {
+    "word": "どうも",
+    "reading": "どうも",
+    "romaji": "doumo"
+  },
+  {
+    "word": "十",
+    "reading": "じゅう",
+    "romaji": "juu"
+  },
+  {
+    "word": "遠い",
+    "reading": "とおい",
+    "romaji": "tooi"
+  },
+  {
+    "word": "十日",
+    "reading": "とうか",
+    "romaji": "touka"
+  },
+  {
+    "word": "～時",
+    "reading": "～とき",
+    "romaji": "~toki"
+  },
+  {
+    "word": "時々",
+    "reading": "ときどき",
+    "romaji": "tokidoki"
+  },
+  {
+    "word": "時計",
+    "reading": "とけい",
+    "romaji": "tokei"
+  },
+  {
+    "word": "どこ",
+    "reading": "どこ",
+    "romaji": "doko"
+  },
+  {
+    "word": "所",
+    "reading": "ところ",
+    "romaji": "tokoro"
+  },
+  {
+    "word": "年",
+    "reading": "ねん",
+    "romaji": "nen"
+  },
+  {
+    "word": "図書館",
+    "reading": "としょかん",
+    "romaji": "toshokan"
+  },
+  {
+    "word": "どちら",
+    "reading": "どちら",
+    "romaji": "dochira"
+  },
+  {
+    "word": "どっち",
+    "reading": "どっち",
+    "romaji": "dotchi"
+  },
+  {
+    "word": "とても",
+    "reading": "とても",
+    "romaji": "totemo"
+  },
+  {
+    "word": "どなた",
+    "reading": "どなた",
+    "romaji": "donata"
+  },
+  {
+    "word": "隣",
+    "reading": "となり",
+    "romaji": "tonari"
+  },
+  {
+    "word": "どの",
+    "reading": "どの",
+    "romaji": "dono"
+  },
+  {
+    "word": "飛ぶ",
+    "reading": "とぶ",
+    "romaji": "tobu"
+  },
+  {
+    "word": "止まる",
+    "reading": "とまる",
+    "romaji": "tomaru"
+  },
+  {
+    "word": "友達",
+    "reading": "ともだち",
+    "romaji": "tomodachi"
+  },
+  {
+    "word": "土曜日",
+    "reading": "どようび",
+    "romaji": "doyoubi"
+  },
+  {
+    "word": "鳥",
+    "reading": "とり",
+    "romaji": "tori"
+  },
+  {
+    "word": "鶏肉",
+    "reading": "とりにく",
+    "romaji": "toriniku"
+  },
+  {
+    "word": "取る",
+    "reading": "とる",
+    "romaji": "toru"
+  },
+  {
+    "word": "撮る",
+    "reading": "とる",
+    "romaji": "toru"
+  },
+  {
+    "word": "どれ",
+    "reading": "どれ",
+    "romaji": "dore"
+  },
+  {
+    "word": "どんな",
+    "reading": "どんな",
+    "romaji": "donna"
+  },
+  {
+    "word": "ない",
+    "reading": "ない",
+    "romaji": "nai"
+  },
+  {
+    "word": "ナイフ",
+    "reading": "ないふ",
+    "romaji": "naifu"
+  },
+  {
+    "word": "中",
+    "reading": "なか",
+    "romaji": "naka"
+  },
+  {
+    "word": "長い",
+    "reading": "ながい",
+    "romaji": "nagai"
+  },
+  {
+    "word": "鳴く",
+    "reading": "なく",
+    "romaji": "naku"
+  },
+  {
+    "word": "無くす",
+    "reading": "なくす",
+    "romaji": "nakusu"
+  },
+  {
+    "word": "なぜ",
+    "reading": "なぜ",
+    "romaji": "naze"
+  },
+  {
+    "word": "夏",
+    "reading": "なつ",
+    "romaji": "natsu"
+  },
+  {
+    "word": "夏休み",
+    "reading": "なつやすみ",
+    "romaji": "natsuyasumi"
+  },
+  {
+    "word": "～など",
+    "reading": "～など",
+    "romaji": "~nado"
+  },
+  {
+    "word": "七つ",
+    "reading": "ななつ",
+    "romaji": "nanatsu"
+  },
+  {
+    "word": "何",
+    "reading": "なに",
+    "romaji": "nani"
+  },
+  {
+    "word": "七日",
+    "reading": "なのか",
+    "romaji": "nanoka"
+  },
+  {
+    "word": "名前",
+    "reading": "なまえ",
+    "romaji": "namae"
+  },
+  {
+    "word": "習う",
+    "reading": "ならう",
+    "romaji": "narau"
+  },
+  {
+    "word": "並ぶ",
+    "reading": "ならぶ",
+    "romaji": "narabu"
+  },
+  {
+    "word": "並べる",
+    "reading": "ならべる",
+    "romaji": "naraberu"
+  },
+  {
+    "word": "なる",
+    "reading": "なる",
+    "romaji": "naru"
+  },
+  {
+    "word": "何～",
+    "reading": "なに～",
+    "romaji": "nani~"
+  },
+  {
+    "word": "二",
+    "reading": "に",
+    "romaji": "ni"
+  },
+  {
+    "word": "にぎやか",
+    "reading": "にぎやか",
+    "romaji": "nigiyaka"
+  },
+  {
+    "word": "肉",
+    "reading": "にく",
+    "romaji": "niku"
+  },
+  {
+    "word": "西",
+    "reading": "にし",
+    "romaji": "nishi"
+  },
+  {
+    "word": "～日",
+    "reading": "～にち",
+    "romaji": "~nichi"
+  },
+  {
+    "word": "日曜日",
+    "reading": "にちようび",
+    "romaji": "nichiyoubi"
+  },
+  {
+    "word": "荷物",
+    "reading": "にもつ",
+    "romaji": "nimotsu"
+  },
+  {
+    "word": "ニュース",
+    "reading": "にゅーす",
+    "romaji": "nyuusu"
+  },
+  {
+    "word": "庭",
+    "reading": "にわ",
+    "romaji": "niwa"
+  },
+  {
+    "word": "～人",
+    "reading": "～にん",
+    "romaji": "~nin"
+  },
+  {
+    "word": "脱ぐ",
+    "reading": "ぬぐ",
+    "romaji": "nugu"
+  },
+  {
+    "word": "温い",
+    "reading": "ぬくい",
+    "romaji": "nukui"
+  },
+  {
+    "word": "ネクタイ",
+    "reading": "ねくたい",
+    "romaji": "nekutai"
+  },
+  {
+    "word": "猫",
+    "reading": "ねこ",
+    "romaji": "neko"
+  },
+  {
+    "word": "寝る",
+    "reading": "ねる",
+    "romaji": "neru"
+  },
+  {
+    "word": "～年",
+    "reading": "～ねん",
+    "romaji": "~nen"
+  },
+  {
+    "word": "ノート",
+    "reading": "のーと",
+    "romaji": "nooto"
+  },
+  {
+    "word": "登る",
+    "reading": "のぼる",
+    "romaji": "noboru"
+  },
+  {
+    "word": "飲み物",
+    "reading": "のみもの",
+    "romaji": "nomimono"
+  },
+  {
+    "word": "飲む",
+    "reading": "のむ",
+    "romaji": "nomu"
+  },
+  {
+    "word": "乗る",
+    "reading": "のる",
+    "romaji": "noru"
+  },
+  {
+    "word": "歯",
+    "reading": "は",
+    "romaji": "ha"
+  },
+  {
+    "word": "パーティー",
+    "reading": "ぱーてぃー",
+    "romaji": "paateii"
+  },
+  {
+    "word": "はい",
+    "reading": "はい",
+    "romaji": "hai"
+  },
+  {
+    "word": "～杯",
+    "reading": "～はい",
+    "romaji": "~hai"
+  },
+  {
+    "word": "灰皿",
+    "reading": "はいざら",
+    "romaji": "haizara"
+  },
+  {
+    "word": "入る",
+    "reading": "いる",
+    "romaji": "iru"
+  },
+  {
+    "word": "葉書",
+    "reading": "はがき",
+    "romaji": "hagaki"
+  },
+  {
+    "word": "はく",
+    "reading": "はく",
+    "romaji": "haku"
+  },
+  {
+    "word": "箱",
+    "reading": "はこ",
+    "romaji": "hako"
+  },
+  {
+    "word": "橋",
+    "reading": "はし",
+    "romaji": "hashi"
+  },
+  {
+    "word": "箸",
+    "reading": "はし",
+    "romaji": "hashi"
+  },
+  {
+    "word": "始まる",
+    "reading": "はじまる",
+    "romaji": "hajimaru"
+  },
+  {
+    "word": "初め; 始め",
+    "reading": "はじめ; はじめ",
+    "romaji": "hajime; hajime"
+  },
+  {
+    "word": "初めて",
+    "reading": "はじめて",
+    "romaji": "hajimete"
+  },
+  {
+    "word": "走る",
+    "reading": "はしる",
+    "romaji": "hashiru"
+  },
+  {
+    "word": "バス",
+    "reading": "ばす",
+    "romaji": "basu"
+  },
+  {
+    "word": "バター",
+    "reading": "ばたー",
+    "romaji": "bataa"
+  },
+  {
+    "word": "二十歳",
+    "reading": "はたち",
+    "romaji": "hatachi"
+  },
+  {
+    "word": "働く",
+    "reading": "はたらく",
+    "romaji": "hataraku"
+  },
+  {
+    "word": "八",
+    "reading": "はち",
+    "romaji": "hachi"
+  },
+  {
+    "word": "二十日",
+    "reading": "はつか",
+    "romaji": "hatsuka"
+  },
+  {
+    "word": "花",
+    "reading": "はな",
+    "romaji": "hana"
+  },
+  {
+    "word": "鼻",
+    "reading": "はな",
+    "romaji": "hana"
+  },
+  {
+    "word": "話",
+    "reading": "はなし",
+    "romaji": "hanashi"
+  },
+  {
+    "word": "話す",
+    "reading": "はなす",
+    "romaji": "hanasu"
+  },
+  {
+    "word": "母",
+    "reading": "はは",
+    "romaji": "haha"
+  },
+  {
+    "word": "早い",
+    "reading": "はやい",
+    "romaji": "hayai"
+  },
+  {
+    "word": "速い",
+    "reading": "はやい",
+    "romaji": "hayai"
+  },
+  {
+    "word": "春",
+    "reading": "はる",
+    "romaji": "haru"
+  },
+  {
+    "word": "貼る",
+    "reading": "はる",
+    "romaji": "haru"
+  },
+  {
+    "word": "晴れ",
+    "reading": "はれ",
+    "romaji": "hare"
+  },
+  {
+    "word": "晴れる",
+    "reading": "はれる",
+    "romaji": "hareru"
+  },
+  {
+    "word": "半",
+    "reading": "はん",
+    "romaji": "han"
+  },
+  {
+    "word": "晩",
+    "reading": "ばん",
+    "romaji": "ban"
+  },
+  {
+    "word": "～番",
+    "reading": "～ばん",
+    "romaji": "~ban"
+  },
+  {
+    "word": "パン",
+    "reading": "ぱん",
+    "romaji": "pan"
+  },
+  {
+    "word": "ハンカチ",
+    "reading": "はんかち",
+    "romaji": "hankachi"
+  },
+  {
+    "word": "番号",
+    "reading": "ばんごう",
+    "romaji": "bangou"
+  },
+  {
+    "word": "晩御飯",
+    "reading": "ばんごはん",
+    "romaji": "bangohan"
+  },
+  {
+    "word": "半分",
+    "reading": "はんぶん",
+    "romaji": "hanbun"
+  },
+  {
+    "word": "東",
+    "reading": "ひがし",
+    "romaji": "higashi"
+  },
+  {
+    "word": "～匹",
+    "reading": "～ひき",
+    "romaji": "~hiki"
+  },
+  {
+    "word": "引く",
+    "reading": "ひく",
+    "romaji": "hiku"
+  },
+  {
+    "word": "弾く",
+    "reading": "ひく",
+    "romaji": "hiku"
+  },
+  {
+    "word": "低い",
+    "reading": "ひくい",
+    "romaji": "hikui"
+  },
+  {
+    "word": "飛行機",
+    "reading": "ひこうき",
+    "romaji": "hikouki"
+  },
+  {
+    "word": "左",
+    "reading": "ひだり",
+    "romaji": "hidari"
+  },
+  {
+    "word": "人",
+    "reading": "にん",
+    "romaji": "nin"
+  },
+  {
+    "word": "一つ",
+    "reading": "ひとつ",
+    "romaji": "hitotsu"
+  },
+  {
+    "word": "一月",
+    "reading": "いちがつ",
+    "romaji": "ichigatsu"
+  },
+  {
+    "word": "一人",
+    "reading": "ひとり",
+    "romaji": "hitori"
+  },
+  {
+    "word": "暇",
+    "reading": "ひま",
+    "romaji": "hima"
+  },
+  {
+    "word": "百",
+    "reading": "ひゃく",
+    "romaji": "hyaku"
+  },
+  {
+    "word": "病院",
+    "reading": "びょういん",
+    "romaji": "byouin"
+  },
+  {
+    "word": "病気",
+    "reading": "びょうき",
+    "romaji": "byouki"
+  },
+  {
+    "word": "平仮名",
+    "reading": "ひらがな",
+    "romaji": "hiragana"
+  },
+  {
+    "word": "昼",
+    "reading": "ひる",
+    "romaji": "hiru"
+  },
+  {
+    "word": "昼御飯",
+    "reading": "ひるごはん",
+    "romaji": "hirugohan"
+  },
+  {
+    "word": "広い",
+    "reading": "ひろい",
+    "romaji": "hiroi"
+  },
+  {
+    "word": "フィルム",
+    "reading": "ふぃるむ",
+    "romaji": "firumu"
+  },
+  {
+    "word": "封筒",
+    "reading": "ふうとう",
+    "romaji": "fuutou"
+  },
+  {
+    "word": "プール",
+    "reading": "ぷーる",
+    "romaji": "puuru"
+  },
+  {
+    "word": "フォーク",
+    "reading": "ふぉーく",
+    "romaji": "fooku"
+  },
+  {
+    "word": "吹く",
+    "reading": "ふく",
+    "romaji": "fuku"
+  },
+  {
+    "word": "服",
+    "reading": "ふく",
+    "romaji": "fuku"
+  },
+  {
+    "word": "二つ",
+    "reading": "ふたつ",
+    "romaji": "futatsu"
+  },
+  {
+    "word": "豚肉",
+    "reading": "ぶたにく",
+    "romaji": "butaniku"
+  },
+  {
+    "word": "二人",
+    "reading": "ふたり",
+    "romaji": "futari"
+  },
+  {
+    "word": "二日",
+    "reading": "ふつか",
+    "romaji": "futsuka"
+  },
+  {
+    "word": "太い",
+    "reading": "ふとい",
+    "romaji": "futoi"
+  },
+  {
+    "word": "冬",
+    "reading": "ふゆ",
+    "romaji": "fuyu"
+  },
+  {
+    "word": "降る",
+    "reading": "ふる",
+    "romaji": "furu"
+  },
+  {
+    "word": "古い",
+    "reading": "ふるい",
+    "romaji": "furui"
+  },
+  {
+    "word": "～分",
+    "reading": "～ふん",
+    "romaji": "~fun"
+  },
+  {
+    "word": "文章",
+    "reading": "ぶんしょう",
+    "romaji": "bunshou"
+  },
+  {
+    "word": "ページ",
+    "reading": "ぺーじ",
+    "romaji": "peeji"
+  },
+  {
+    "word": "下手",
+    "reading": "へた",
+    "romaji": "heta"
+  },
+  {
+    "word": "ベッド",
+    "reading": "べっど",
+    "romaji": "beddo"
+  },
+  {
+    "word": "ペット",
+    "reading": "ぺっと",
+    "romaji": "petto"
+  },
+  {
+    "word": "部屋",
+    "reading": "へや",
+    "romaji": "heya"
+  },
+  {
+    "word": "辺",
+    "reading": "へん",
+    "romaji": "hen"
+  },
+  {
+    "word": "ペン",
+    "reading": "ぺん",
+    "romaji": "pen"
+  },
+  {
+    "word": "勉強",
+    "reading": "べんきょう",
+    "romaji": "benkyou"
+  },
+  {
+    "word": "便利",
+    "reading": "べんり",
+    "romaji": "benri"
+  },
+  {
+    "word": "帽子",
+    "reading": "ぼうし",
+    "romaji": "boushi"
+  },
+  {
+    "word": "ボールペン",
+    "reading": "ぼーるぺん",
+    "romaji": "boorupen"
+  },
+  {
+    "word": "外",
+    "reading": "そと",
+    "romaji": "soto"
+  },
+  {
+    "word": "ポケット",
+    "reading": "ぽけっと",
+    "romaji": "poketto"
+  },
+  {
+    "word": "欲しい",
+    "reading": "ほしい",
+    "romaji": "hoshii"
+  },
+  {
+    "word": "ポスト",
+    "reading": "ぽすと",
+    "romaji": "posuto"
+  },
+  {
+    "word": "細い",
+    "reading": "こまい",
+    "romaji": "komai"
+  },
+  {
+    "word": "ボタン",
+    "reading": "ぼたん",
+    "romaji": "botan"
+  },
+  {
+    "word": "ホテル",
+    "reading": "ほてる",
+    "romaji": "hoteru"
+  },
+  {
+    "word": "本",
+    "reading": "ほん",
+    "romaji": "hon"
+  },
+  {
+    "word": "～本",
+    "reading": "～ほん",
+    "romaji": "~hon"
+  },
+  {
+    "word": "本棚",
+    "reading": "ほんだな",
+    "romaji": "hondana"
+  },
+  {
+    "word": "本当",
+    "reading": "ほんとう",
+    "romaji": "hontou"
+  },
+  {
+    "word": "～枚",
+    "reading": "～まい",
+    "romaji": "~mai"
+  },
+  {
+    "word": "毎朝",
+    "reading": "まいあさ",
+    "romaji": "maiasa"
+  },
+  {
+    "word": "毎月",
+    "reading": "まいつき",
+    "romaji": "maitsuki"
+  },
+  {
+    "word": "毎週",
+    "reading": "まいしゅう",
+    "romaji": "maishuu"
+  },
+  {
+    "word": "毎日",
+    "reading": "まいにち",
+    "romaji": "mainichi"
+  },
+  {
+    "word": "毎年",
+    "reading": "まいとし",
+    "romaji": "maitoshi"
+  },
+  {
+    "word": "毎晩",
+    "reading": "まいばん",
+    "romaji": "maiban"
+  },
+  {
+    "word": "前",
+    "reading": "まえ",
+    "romaji": "mae"
+  },
+  {
+    "word": "～前",
+    "reading": "～まえ",
+    "romaji": "~mae"
+  },
+  {
+    "word": "曲る",
+    "reading": "まがる",
+    "romaji": "magaru"
+  },
+  {
+    "word": "まずい",
+    "reading": "まずい",
+    "romaji": "mazui"
+  },
+  {
+    "word": "また",
+    "reading": "また",
+    "romaji": "mata"
+  },
+  {
+    "word": "まだ",
+    "reading": "まだ",
+    "romaji": "mada"
+  },
+  {
+    "word": "町",
+    "reading": "まち",
+    "romaji": "machi"
+  },
+  {
+    "word": "待つ",
+    "reading": "まつ",
+    "romaji": "matsu"
+  },
+  {
+    "word": "まっすぐ",
+    "reading": "まっすぐ",
+    "romaji": "massugu"
+  },
+  {
+    "word": "マッチ",
+    "reading": "まっち",
+    "romaji": "matchi"
+  },
+  {
+    "word": "窓",
+    "reading": "まど",
+    "romaji": "mado"
+  },
+  {
+    "word": "丸い; 円い",
+    "reading": "まるい; まるい",
+    "romaji": "marui; marui"
+  },
+  {
+    "word": "万",
+    "reading": "まん",
+    "romaji": "man"
+  },
+  {
+    "word": "万年筆",
+    "reading": "まんねんひつ",
+    "romaji": "mannenhitsu"
+  },
+  {
+    "word": "磨く",
+    "reading": "みがく",
+    "romaji": "migaku"
+  },
+  {
+    "word": "右",
+    "reading": "みぎ",
+    "romaji": "migi"
+  },
+  {
+    "word": "短い",
+    "reading": "みじかい",
+    "romaji": "mijikai"
+  },
+  {
+    "word": "水",
+    "reading": "みず",
+    "romaji": "mizu"
+  },
+  {
+    "word": "店",
+    "reading": "みせ",
+    "romaji": "mise"
+  },
+  {
+    "word": "見せる",
+    "reading": "みせる",
+    "romaji": "miseru"
+  },
+  {
+    "word": "道",
+    "reading": "みち",
+    "romaji": "michi"
+  },
+  {
+    "word": "三日",
+    "reading": "みっか",
+    "romaji": "mikka"
+  },
+  {
+    "word": "三つ",
+    "reading": "みっつ",
+    "romaji": "mittsu"
+  },
+  {
+    "word": "緑",
+    "reading": "みどり",
+    "romaji": "midori"
+  },
+  {
+    "word": "皆さん",
+    "reading": "みなさん",
+    "romaji": "minasan"
+  },
+  {
+    "word": "南",
+    "reading": "みなみ",
+    "romaji": "minami"
+  },
+  {
+    "word": "耳",
+    "reading": "みみ",
+    "romaji": "mimi"
+  },
+  {
+    "word": "見る",
+    "reading": "みる",
+    "romaji": "miru"
+  },
+  {
+    "word": "みんな",
+    "reading": "みんな",
+    "romaji": "minna"
+  },
+  {
+    "word": "六日",
+    "reading": "むいか",
+    "romaji": "muika"
+  },
+  {
+    "word": "向こう",
+    "reading": "むこう",
+    "romaji": "mukou"
+  },
+  {
+    "word": "難しい",
+    "reading": "むずかしい",
+    "romaji": "muzukashii"
+  },
+  {
+    "word": "六つ",
+    "reading": "むつ",
+    "romaji": "mutsu"
+  },
+  {
+    "word": "村",
+    "reading": "むら",
+    "romaji": "mura"
+  },
+  {
+    "word": "目",
+    "reading": "め",
+    "romaji": "me"
+  },
+  {
+    "word": "メートル",
+    "reading": "めーとる",
+    "romaji": "meetoru"
+  },
+  {
+    "word": "眼鏡",
+    "reading": "めがね",
+    "romaji": "megane"
+  },
+  {
+    "word": "もう",
+    "reading": "もう",
+    "romaji": "mou"
+  },
+  {
+    "word": "木曜日",
+    "reading": "もくようび",
+    "romaji": "mokuyoubi"
+  },
+  {
+    "word": "もしもし",
+    "reading": "もしもし",
+    "romaji": "moshimoshi"
+  },
+  {
+    "word": "持つ",
+    "reading": "もつ",
+    "romaji": "motsu"
+  },
+  {
+    "word": "もっと",
+    "reading": "もっと",
+    "romaji": "motto"
+  },
+  {
+    "word": "物",
+    "reading": "もの",
+    "romaji": "mono"
+  },
+  {
+    "word": "門",
+    "reading": "もん",
+    "romaji": "mon"
+  },
+  {
+    "word": "問題",
+    "reading": "もんだい",
+    "romaji": "mondai"
+  },
+  {
+    "word": "～屋",
+    "reading": "～や",
+    "romaji": "~ya"
+  },
+  {
+    "word": "八百屋",
+    "reading": "やおや",
+    "romaji": "yaoya"
+  },
+  {
+    "word": "野菜",
+    "reading": "やさい",
+    "romaji": "yasai"
+  },
+  {
+    "word": "易しい",
+    "reading": "やさしい",
+    "romaji": "yasashii"
+  },
+  {
+    "word": "安い",
+    "reading": "やすい",
+    "romaji": "yasui"
+  },
+  {
+    "word": "休み",
+    "reading": "やすみ",
+    "romaji": "yasumi"
+  },
+  {
+    "word": "休む",
+    "reading": "やすむ",
+    "romaji": "yasumu"
+  },
+  {
+    "word": "八つ",
+    "reading": "やつ",
+    "romaji": "yatsu"
+  },
+  {
+    "word": "山",
+    "reading": "やま",
+    "romaji": "yama"
+  },
+  {
+    "word": "やる",
+    "reading": "やる",
+    "romaji": "yaru"
+  },
+  {
+    "word": "夕方",
+    "reading": "ゆうがた",
+    "romaji": "yuugata"
+  },
+  {
+    "word": "夕飯",
+    "reading": "ゆうはん",
+    "romaji": "yuuhan"
+  },
+  {
+    "word": "郵便局",
+    "reading": "ゆうびんきょく",
+    "romaji": "yuubinkyoku"
+  },
+  {
+    "word": "昨夜",
+    "reading": "さくや",
+    "romaji": "sakuya"
+  },
+  {
+    "word": "有名",
+    "reading": "ゆうめい",
+    "romaji": "yuumei"
+  },
+  {
+    "word": "雪",
+    "reading": "ゆき",
+    "romaji": "yuki"
+  },
+  {
+    "word": "ゆっくりと",
+    "reading": "ゆっくりと",
+    "romaji": "yukkurito"
+  },
+  {
+    "word": "八日",
+    "reading": "ようか",
+    "romaji": "youka"
+  },
+  {
+    "word": "洋服",
+    "reading": "ようふく",
+    "romaji": "youfuku"
+  },
+  {
+    "word": "よく",
+    "reading": "よく",
+    "romaji": "yoku"
+  },
+  {
+    "word": "横",
+    "reading": "よこ",
+    "romaji": "yoko"
+  },
+  {
+    "word": "四日",
+    "reading": "よっか",
+    "romaji": "yokka"
+  },
+  {
+    "word": "四つ",
+    "reading": "よつ",
+    "romaji": "yotsu"
+  },
+  {
+    "word": "呼ぶ",
+    "reading": "よぶ",
+    "romaji": "yobu"
+  },
+  {
+    "word": "読む",
+    "reading": "よむ",
+    "romaji": "yomu"
+  },
+  {
+    "word": "夜",
+    "reading": "よる",
+    "romaji": "yoru"
+  },
+  {
+    "word": "弱い",
+    "reading": "よわい",
+    "romaji": "yowai"
+  },
+  {
+    "word": "来月",
+    "reading": "らいげつ",
+    "romaji": "raigetsu"
+  },
+  {
+    "word": "来週",
+    "reading": "らいしゅう",
+    "romaji": "raishuu"
+  },
+  {
+    "word": "来年",
+    "reading": "らいねん",
+    "romaji": "rainen"
+  },
+  {
+    "word": "ラジオ",
+    "reading": "らじお",
+    "romaji": "rajio"
+  },
+  {
+    "word": "ラジオカセ",
+    "reading": "らじおかせ",
+    "romaji": "rajiokase"
+  },
+  {
+    "word": "りっぱ",
+    "reading": "りっぱ",
+    "romaji": "rippa"
+  },
+  {
+    "word": "留学生",
+    "reading": "りゅうがくせい",
+    "romaji": "ryuugakusei"
+  },
+  {
+    "word": "両親",
+    "reading": "りょうしん",
+    "romaji": "ryoushin"
+  },
+  {
+    "word": "料理",
+    "reading": "りょうり",
+    "romaji": "ryouri"
+  },
+  {
+    "word": "旅行",
+    "reading": "りょこう",
+    "romaji": "ryokou"
+  },
+  {
+    "word": "零",
+    "reading": "れい",
+    "romaji": "rei"
+  },
+  {
+    "word": "冷蔵庫",
+    "reading": "れいぞうこ",
+    "romaji": "reizouko"
+  },
+  {
+    "word": "レコード",
+    "reading": "れこーど",
+    "romaji": "rekoodo"
+  },
+  {
+    "word": "レストラン",
+    "reading": "れすとらん",
+    "romaji": "resutoran"
+  },
+  {
+    "word": "練習",
+    "reading": "れんしゅう",
+    "romaji": "renshuu"
+  },
+  {
+    "word": "廊下",
+    "reading": "ろうか",
+    "romaji": "rouka"
+  },
+  {
+    "word": "六",
+    "reading": "ろく",
+    "romaji": "roku"
+  },
+  {
+    "word": "ワイシャツ",
+    "reading": "わいしゃつ",
+    "romaji": "waishatsu"
+  },
+  {
+    "word": "若い",
+    "reading": "わかい",
+    "romaji": "wakai"
+  },
+  {
+    "word": "分かる",
+    "reading": "わかる",
+    "romaji": "wakaru"
+  },
+  {
+    "word": "忘れる",
+    "reading": "わすれる",
+    "romaji": "wasureru"
+  },
+  {
+    "word": "私",
+    "reading": "わたし",
+    "romaji": "watashi"
+  },
+  {
+    "word": "私",
+    "reading": "わたし",
+    "romaji": "watashi"
+  },
+  {
+    "word": "渡す",
+    "reading": "わたす",
+    "romaji": "watasu"
+  },
+  {
+    "word": "渡る",
+    "reading": "わたる",
+    "romaji": "wataru"
+  },
+  {
+    "word": "悪い",
+    "reading": "わるい",
+    "romaji": "warui"
+  }
+]
