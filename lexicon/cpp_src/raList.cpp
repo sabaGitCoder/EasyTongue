@@ -23,9 +23,11 @@ public:
     }
 
     // Function 1: Add a word to the database
-    void add_words(vector <string> values) {
-        for(int i = 0; i < values.size(); i++)
-            keys.push_back(values[i]);
+    void add_List(vector <map <string,string> > lst) {
+        for(int i = 0; i < lst.size(); i++){
+            keys.push_back(lst[i]["reading"]);
+            dictionary[lst[i]["reading"]] = lst[i]["romaji"];
+        }
     }
 
     // Function 2: Get a random word
@@ -41,6 +43,10 @@ public:
         return random_key;
     }
     
+    string get_romaji(string word){
+        return dictionary[word];
+    }
+
     // Function 3: Get definition of specific word
     /*
         string get_definition(string key) {
@@ -60,7 +66,8 @@ PYBIND11_MODULE(lexicon_engine, m) {
     // We are telling Python: "There is a class called 'RaList'"
     py::class_<RaList>(m, "RaList")
         .def(py::init<>()) // Expose the constructor
-        .def("add_words", &RaList::add_words) // Expose add_word function
-        .def("get_random_word", &RaList::get_random_word);
+        .def("add_List", &RaList::add_List) // Expose add_word function
+        .def("get_random_word", &RaList::get_random_word)
+        .def("get_romaji", &RaList::get_romaji);
         //.def("get_definition", &RaList::get_definition);
 }

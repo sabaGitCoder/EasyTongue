@@ -31,4 +31,5 @@ def wellcome(request) :
     # ask it to give you words
 
     raword = shared_lexicon.get_random_word()
-    return render(request, 'wellcome.html', {'word': raword})
+    romaji = shared_lexicon.get_romaji(raword)
+    return render(request, 'wellcome.html', {'word': raword , 'romaji' : romaji})

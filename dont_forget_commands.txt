@@ -1,0 +1,2 @@
+pip freeze > requirements.txt : after downloading new things 
+python setup.py build_ext --inplace : after chaning cpp file 
